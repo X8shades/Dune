@@ -6,4 +6,6 @@ Herkunft: Born on [[Arrakis]]
 
 Know-How: relatively good in politics and a fighter 
 
-Interessantes: sees [[Paul Atreides (†)]] as a god 
+Interessantes: 
+- sees [[Paul Atreides (†)]] as a god 
+- 
