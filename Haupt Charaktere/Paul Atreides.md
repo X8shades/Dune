@@ -1,0 +1,13 @@
+![[is-paul-atreides-a-villain-1-1709567037294.webp]]
+Wer (Titel): Duke of Arakis, Kwisatz Haderach, Emperor
+
+Familie: [[Alia Atreides]](Sister) ,[[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father), [[Leto Atreides II]] (First son)
+Herkunft: [[Atreides]] Haus, born on [[Caladan]]
+Know-How: 
+- Prescient knowledge due to [[Spice Melange]] and drinking the [[Water of Life]]
+- Can "see" even without his eyes, after a [[stone burner]] took his eyesight
+
+
+Interessantes: His Wife Irulan Corrino doesn't like him because he replaced her [[Shaddam Corrino IV|father]] as an emperor and sent him to [[Salusa Secundus]]
+
+

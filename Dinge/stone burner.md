@@ -1,0 +1,2 @@
+![[Stoneburner.webp]]
+The **stone burner** was a particularly destructive weapon. It could perform one of two tasks; the first function of the bomb was to release massive amounts of J-rays (a type of radiation ==that **dissolves eye tissue**==), thus blinding all creatures within a certain radius. The second objective was to create ==**general destruction of property**==.
