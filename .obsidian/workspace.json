@@ -11,12 +11,8 @@
             "id": "b96f5ea870253406",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Edric †.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Edric †.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Edric †.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Haupt Charaktere/Edric †.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,16 +148,17 @@
   },
   "active": "b96f5ea870253406",
   "lastOpenFiles": [
-    "Misc/Copy paste.md",
+    "Side Charaktere/Leto Atreides I.md",
+    "Haupt Charaktere/Alia Atreides.md",
+    "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Edric †.md",
+    "Misc/Copy paste.md",
     "Haupt Charaktere/Stilgar.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "Misc/GitHub Zeug.md",
     "Untitled.canvas",
-    "Haupt Charaktere/Alia Atreides.md",
     "Haupt Charaktere/Leto Atreides II.md",
-    "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Irulan Corrino.md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
@@ -174,7 +167,6 @@
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Korba, the Panegyrist.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Side Charaktere/Leto Atreides I.md",
     "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "Side Charaktere/Otheym.md",
     "Side Charaktere/Bijaz.md",
