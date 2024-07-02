@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Copy paste.md",
-                "mode": "source",
+                "file": "Misc/GitHub Zeug.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Copy paste.md",
+                "file": "Misc/GitHub Zeug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Copy paste.md",
+                "file": "Misc/GitHub Zeug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Copy paste.md"
+                "file": "Misc/GitHub Zeug.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b96f5ea870253406",
+  "active": "db0fb8f2640c9611",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Misc/GitHub Zeug.md",
+    "Misc/Copy paste.md",
     "Haupt Charaktere/Alia Atreides.md",
     "Haupt Charaktere/Paul Atreides.md",
     "Haupt Charaktere/Leto Atreides II.md",
@@ -170,7 +173,6 @@
     "Haupt Charaktere/Edric.md",
     "Haupt Charaktere/Korba, the Panegyrist.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Misc/GitHub Zeug.md",
     "Side Charaktere/Leto Atreides I.md",
     "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "Side Charaktere/Otheym.md",
@@ -180,12 +182,10 @@
     "200w.gif",
     "test.md",
     "Dune_obsidian_vault",
-    "Misc/Copy paste.md",
     "Dinge/stone burner.md",
     "Dinge/Face Dancer.md",
     "Bilder/Stoneburner.webp",
     "Bilder/Pasted image 20240630210543.png",
-    "Misc/Links.md",
     "Side Charaktere",
     "Bilder/Edric-2003-portrait.webp",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
