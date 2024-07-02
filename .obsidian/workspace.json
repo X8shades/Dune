@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "file": "Misc/GitHub Zeug.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "file": "Misc/GitHub Zeug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "file": "Misc/GitHub Zeug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md"
+                "file": "Misc/GitHub Zeug.md"
               }
+            }
+          },
+          {
+            "id": "db0fb8f2640c9611",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94bc7b768634e9c3",
+  "active": "b96f5ea870253406",
   "lastOpenFiles": [
+    "Haupt Charaktere/Duncan Idaho.md",
+    "Misc/GitHub Zeug.md",
     "Dune_obsidian_vault",
     "Haupt Charaktere/Scytale.md",
     "Side Charaktere/Bijaz.md",
-    "Haupt Charaktere/Duncan Idaho.md",
     "Haupt Charaktere/Edric.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Ghanima Atreides.md",
