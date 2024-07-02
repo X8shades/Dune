@@ -1,5 +1,7 @@
 <font size = 5>Charaktere</font>
 
+if dead †
+
 Wer (Titel):
 
 Familie:
