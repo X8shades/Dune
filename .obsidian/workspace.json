@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides.md",
-                "mode": "preview",
+                "file": "Haupt Charaktere/Scytale.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Haupt Charaktere/Scytale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Haupt Charaktere/Scytale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hallo das wurde von meinem pc geschrieben.md"
+                "file": "Haupt Charaktere/Scytale.md"
               }
             }
           },
@@ -152,38 +154,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0fb8f2640c9611",
+  "active": "b96f5ea870253406",
   "lastOpenFiles": [
-    "200w.gif",
+    "Haupt Charaktere/Stilgar.md",
+    "Haupt Charaktere/Chani Kynes †.md",
+    "Haupt Charaktere/Edric.md",
+    "Haupt Charaktere/Korba, the Panegyrist.md",
+    "Haupt Charaktere/Ghanima Atreides.md",
+    "Misc/GitHub Zeug.md",
+    "Side Charaktere/Leto Atreides I.md",
+    "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
+    "Side Charaktere/Otheym.md",
+    "Side Charaktere/Bijaz.md",
+    "Side Charaktere/Dhuri.md",
     "Haupt Charaktere/Paul Atreides.md",
     "hallo das wurde von meinem pc geschrieben.md",
+    "200w.gif",
     "test.md",
-    "Misc/GitHub Zeug.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Dune_obsidian_vault",
     "Haupt Charaktere/Scytale.md",
-    "Side Charaktere/Bijaz.md",
-    "Haupt Charaktere/Edric.md",
     "Haupt Charaktere/Leto Atreides II.md",
-    "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/Copy paste.md",
-    "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "Dinge/stone burner.md",
     "Dinge/Face Dancer.md",
     "Bilder/Stoneburner.webp",
-    "Haupt Charaktere/Korba, the Panegyrist.md",
     "Bilder/Pasted image 20240630210543.png",
     "Misc/Links.md",
     "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Alia Atreides.md",
-    "Side Charaktere/Leto Atreides I.md",
-    "Side Charaktere/Otheym.md",
-    "Side Charaktere/Dhuri.md",
     "Side Charaktere",
     "Planeten/Tarahell.md",
     "Haupt Charaktere/Irulan Corrino.md",
     "Haupt Charaktere/Gaius Helen Mohiam.md",
-    "Planeten/Earth.md",
     "Bilder/Edric-2003-portrait.webp",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
     "Bilder/scytale-foto.jpg",
@@ -191,7 +194,6 @@
     "Bilder/Jason-Momoa-Duncan-Idaho-Dune.avif",
     "Bilder/is-paul-atreides-a-villain-1-1709567037294.webp",
     "Bilder/dune-2-christopher-walken-kaiser-shaddam-corrino-iv-375705.webp",
-    "Bilder/Irulan_2024.webp",
     "Häuser",
     "Bilder",
     "Misc",
