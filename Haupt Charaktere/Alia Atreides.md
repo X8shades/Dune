@@ -2,7 +2,7 @@
 
 Wer (Titel): Saint Alia of the Knife
 
-Familie: [[Paul Atreides]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
+Familie: [[Paul Atreides (†)]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
 
 Herkunft: [[Atreides]] Haus, born on [[Arrakis]] 
 

@@ -8,6 +8,7 @@ Know-How:
 - Can "see" even without his eyes, after a [[stone burner]] took his eyesight
 
 
-Interessantes: His Wife Irulan Corrino doesn't like him because he replaced her [[Shaddam Corrino IV|father]] as an emperor and sent him to [[Salusa Secundus]]
-
+Interessantes: 
+- His Wife Irulan Corrino doesn't like him because he replaced her [[Shaddam Corrino IV|father]] as an emperor and sent him to [[Salusa Secundus]]
+- Probably dead after completely losing his eyesight. Went into the desert after 
 
