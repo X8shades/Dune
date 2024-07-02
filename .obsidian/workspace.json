@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "9ca1998927c7dfda",
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides.md"
+                "file": "hallo das wurde von meinem pc geschrieben.md"
               }
             }
           },
@@ -142,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +152,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b96f5ea870253406",
+  "active": "db0fb8f2640c9611",
   "lastOpenFiles": [
-    "hallo das wurde von meinem pc geschrieben.md",
-    "Haupt Charaktere/Paul Atreides.md",
     "200w.gif",
-    "Untitled.md",
+    "Haupt Charaktere/Paul Atreides.md",
+    "hallo das wurde von meinem pc geschrieben.md",
     "test.md",
     "Misc/GitHub Zeug.md",
     "Haupt Charaktere/Duncan Idaho.md",
@@ -194,6 +191,7 @@
     "Bilder/Jason-Momoa-Duncan-Idaho-Dune.avif",
     "Bilder/is-paul-atreides-a-villain-1-1709567037294.webp",
     "Bilder/dune-2-christopher-walken-kaiser-shaddam-corrino-iv-375705.webp",
+    "Bilder/Irulan_2024.webp",
     "Häuser",
     "Bilder",
     "Misc",
