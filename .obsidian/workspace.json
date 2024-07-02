@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Haupt Charaktere/Paul Atreides (†).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
