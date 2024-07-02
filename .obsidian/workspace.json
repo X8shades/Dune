@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/GitHub Zeug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983824553f21b007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
+                "file": "Haupt Charaktere/Paul Atreides.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Haupt Charaktere/Paul Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,18 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Haupt Charaktere/Paul Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "db0fb8f2640c9611",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -146,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Haupt Charaktere/Paul Atreides.md"
               }
+            }
+          },
+          {
+            "id": "db0fb8f2640c9611",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0fb8f2640c9611",
+  "active": "b96f5ea870253406",
   "lastOpenFiles": [
-    "Misc/GitHub Zeug.md",
     "test.md",
+    "Haupt Charaktere/Paul Atreides.md",
+    "Misc/GitHub Zeug.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Dune_obsidian_vault",
     "Haupt Charaktere/Scytale.md",
@@ -178,7 +166,7 @@
     "Haupt Charaktere/Edric.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Haupt Charaktere/Paul Atreides.md",
+    "Untitled.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "Dinge/stone burner.md",
@@ -199,7 +187,6 @@
     "Planeten/Earth.md",
     "Haupt Charaktere/Chani Kynes.md",
     "Bilder/Edric-2003-portrait.webp",
-    "Haupt Charaktere/Shaddam Corrino IV.md",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
     "Bilder/scytale-foto.jpg",
     "Bilder/3674e55da1fb9b980e174ca59ca58cdc.jpg",
