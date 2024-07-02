@@ -8,5 +8,5 @@ Herkunft:
 Know-How:
 
 Interessantes: 
-- In a plot with [[Irulan Corrino]], [[Scytale †]] and [[Edric]] to kill [[Paul Atreides (†)]] 
+- In a plot with [[Irulan Corrino]], [[Scytale †]] and [[Edric †]] to kill [[Paul Atreides (†)]] 
 - killed by [[Stilgar]] 
