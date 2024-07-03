@@ -7,3 +7,4 @@ Herkunft:  [[Atreides]] House, born on [[Arrakis]]
 Know-How:
 
 Interessantes:
+- has memories only his father [[Paul Atreides (†)]] should posses  
