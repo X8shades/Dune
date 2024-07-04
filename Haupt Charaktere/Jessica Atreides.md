@@ -13,3 +13,5 @@ Interessantes:
 - Drank the [[Water of Life]] while pregnant with her [[Alia Atreides|daughter]]
 - was in self-imposed exile
 - doesn't like the twins [[Leto Atreides II]] and [[Ghanima Atreides]] 
+- loves [[Gurney Halleck]]
+- 
