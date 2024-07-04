@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "19e38f740a128848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side Charaktere/Levenbrech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f1e39196ad31a959",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinge/Laza tigers.md",
+                "file": "Side Charaktere/Levenbrech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinge/Laza tigers.md",
+                "file": "Side Charaktere/Levenbrech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinge/Laza tigers.md"
+                "file": "Side Charaktere/Levenbrech.md"
               }
             }
           },
@@ -166,9 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b941a9366b6e66ba",
+  "active": "19e38f740a128848",
   "lastOpenFiles": [
     "Haupt Charaktere/Leto Atreides II.md",
+    "Side Charaktere/Levenbrech.md",
     "Dinge/Laza tigers.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Dinge/Spice Melange.md",
@@ -198,7 +212,6 @@
     "Haupt Charaktere/Korba, the Panegyrist.md",
     "Bilder/Pasted image 20240630210543.png",
     "Misc/Links.md",
-    "Haupt Charaktere/Jessica Atreides.md",
     "Side Charaktere",
     "Bilder/Edric-2003-portrait.webp",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
