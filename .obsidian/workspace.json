@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b941a9366b6e66ba",
+            "id": "93494cda505a5b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinge/Laza tigers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19e38f740a128848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Levenbrech.md",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a85acc7986007fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Jessica Atreides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Levenbrech.md",
+                "file": "Haupt Charaktere/Jessica Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Levenbrech.md",
+                "file": "Haupt Charaktere/Jessica Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Levenbrech.md"
+                "file": "Haupt Charaktere/Jessica Atreides.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19e38f740a128848",
+  "active": "1a85acc7986007fc",
   "lastOpenFiles": [
     "Haupt Charaktere/Leto Atreides II.md",
-    "Side Charaktere/Levenbrech.md",
     "Dinge/Laza tigers.md",
+    "Side Charaktere/Levenbrech.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Dinge/Spice Melange.md",
     "README.md",

@@ -5,8 +5,11 @@ Familie: [[Leto Atreides I]] (husband), [[Paul Atreides (†)]] (son), [[Alia At
 
 Herkunft: [[Bene Gesserit]] 
 
-Know-How:
+Know-How: 
+- Reverend mother 
+- smart and can fight 
 
 Interessantes: 
 - Drank the [[Water of Life]] while pregnant with her [[Alia Atreides|daughter]]
 - was in self-imposed exile
+- doesn't like the twins [[Leto Atreides II]] and [[Ghanima Atreides]] 
