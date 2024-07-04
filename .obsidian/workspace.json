@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93494cda505a5b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1e39196ad31a959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Ghanima Atreides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a85acc7986007fc",
             "type": "leaf",
             "state": {
@@ -44,31 +20,14 @@
             }
           },
           {
-            "id": "06e83196fbaad481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Gurney Halleck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "33aa9d77edd28f52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Javid.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33aa9d77edd28f52",
+  "active": "1a85acc7986007fc",
   "lastOpenFiles": [
+    "Side Charaktere/Javid.md",
     "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Gurney Halleck.md",
-    "Side Charaktere/Javid.md",
     "Side Charaktere/Zebataleph.md",
     "Misc/Copy paste.md",
     "Haupt Charaktere/Leto Atreides II.md",
