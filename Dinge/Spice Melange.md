@@ -1,1 +1,3 @@
 Found on the desert Planet [[Arrakis]] produced by the [[Worms]]
+
+melange (me’-lange also ma,lanj) n-s, origin uncertain (thought to derive from ancient Terran Franzh): a. mixture of spices; b. spice of Arrakis (Dune) with geriatric properties first noted by Yanshuph Ashkoko, royal chemist in reign of Shakkad the Wise; Arrakeen melange, found only in deepest desert sands of Arrakis, linked to prophetic visions of Paul Muad’Dib (Atreides), first Fremen Mahdi; also employed by Spacing Guild Navigators and the Bene Gesserit.
