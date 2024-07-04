@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Jessica Atreides.md",
+                "file": "Side Charaktere/Javid.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Jessica Atreides.md",
+                "file": "Side Charaktere/Javid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Jessica Atreides.md",
+                "file": "Side Charaktere/Javid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Jessica Atreides.md"
+                "file": "Side Charaktere/Javid.md"
               }
             }
           },
@@ -205,11 +205,11 @@
   },
   "active": "33aa9d77edd28f52",
   "lastOpenFiles": [
+    "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Gurney Halleck.md",
     "Side Charaktere/Javid.md",
     "Side Charaktere/Zebataleph.md",
     "Misc/Copy paste.md",
-    "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Dinge/Laza tigers.md",
     "Side Charaktere/Levenbrech.md",
