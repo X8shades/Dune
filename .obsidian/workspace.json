@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b96f5ea870253406",
+            "id": "b941a9366b6e66ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Haupt Charaktere/Leto Atreides II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111405dca31adeed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b96f5ea870253406",
+  "active": "db0fb8f2640c9611",
   "lastOpenFiles": [
+    "README.md",
+    "Haupt Charaktere/Ghanima Atreides.md",
+    "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Paul Atreides.md",
     "Haupt Charaktere/Scytale †.md",
     "Haupt Charaktere/Paul Atreides (†).md",
@@ -173,8 +188,6 @@
     "Haupt Charaktere/Scytale.md",
     "Side Charaktere/Bijaz.md",
     "Haupt Charaktere/Edric.md",
-    "Haupt Charaktere/Leto Atreides II.md",
-    "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "Dinge/stone burner.md",
@@ -186,7 +199,6 @@
     "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Alia Atreides.md",
     "Side Charaktere/Leto Atreides I.md",
-    "Side Charaktere/Otheym.md",
     "Side Charaktere",
     "Bilder/Edric-2003-portrait.webp",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
