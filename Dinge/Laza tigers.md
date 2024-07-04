@@ -1,0 +1,1 @@
+A special breed to [[Salusa Secundus]] almost 8.000 years ago 
