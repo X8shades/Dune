@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Haupt Charaktere/Paul Atreides (†).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,16 +156,16 @@
   },
   "active": "b96f5ea870253406",
   "lastOpenFiles": [
+    "Haupt Charaktere/Paul Atreides (†).md",
+    "Untitled.canvas",
     "Side Charaktere/Leto Atreides I.md",
     "Haupt Charaktere/Alia Atreides.md",
     "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Edric †.md",
     "Misc/Copy paste.md",
     "Haupt Charaktere/Stilgar.md",
-    "Haupt Charaktere/Paul Atreides (†).md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "Misc/GitHub Zeug.md",
-    "Untitled.canvas",
     "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Irulan Corrino.md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
