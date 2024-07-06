@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides (†).md",
-                "mode": "preview",
+                "file": "Dinge/Sandtrout.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides (†).md",
+                "file": "Dinge/Sandtrout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides (†).md",
+                "file": "Dinge/Sandtrout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides (†).md"
+                "file": "Dinge/Sandtrout.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   "active": "8a7bea666a55eda4",
   "lastOpenFiles": [
     "README.md",
-    "conflict-files-obsidian-git.md",
+    "Dinge/Sandtrout.md",
     "Haupt Charaktere/Paul Atreides (†).md",
+    "conflict-files-obsidian-git.md",
     "Side Charaktere/Zebataleph.md",
     "Side Charaktere/Levenbrech.md",
     "Side Charaktere/Javid.md",
@@ -196,7 +197,6 @@
     "Haupt Charaktere/Korba, the Panegyrist.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
-    "Side Charaktere/Otheym.md",
     "200w.gif",
     "Dune_obsidian_vault",
     "Bilder/Stoneburner.webp",
