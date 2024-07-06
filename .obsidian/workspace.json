@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinge/Sandtrout.md",
+                "file": "Haupt Charaktere/The Preacher.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinge/Sandtrout.md",
+                "file": "Haupt Charaktere/The Preacher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinge/Sandtrout.md",
+                "file": "Haupt Charaktere/The Preacher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinge/Sandtrout.md"
+                "file": "Haupt Charaktere/The Preacher.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "8a7bea666a55eda4",
   "lastOpenFiles": [
-    "README.md",
+    "Misc/Links.md",
+    "Haupt Charaktere/The Preacher.md",
     "Dinge/Sandtrout.md",
+    "README.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "conflict-files-obsidian-git.md",
     "Side Charaktere/Zebataleph.md",
@@ -195,8 +197,6 @@
     "Haupt Charaktere/Scytale †.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Korba, the Panegyrist.md",
-    "Haupt Charaktere/Ghanima Atreides.md",
-    "Side Charaktere/Otheym’s Lichna of Berk al Dib.md",
     "200w.gif",
     "Dune_obsidian_vault",
     "Bilder/Stoneburner.webp",
