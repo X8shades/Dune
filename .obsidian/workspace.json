@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/The Preacher.md",
+                "file": "Haupt Charaktere/Assan Tarig.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/The Preacher.md",
+                "file": "Haupt Charaktere/Assan Tarig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/The Preacher.md",
+                "file": "Haupt Charaktere/Assan Tarig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/The Preacher.md"
+                "file": "Haupt Charaktere/Assan Tarig.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "8a7bea666a55eda4",
   "lastOpenFiles": [
-    "Misc/Links.md",
+    "Misc/Copy paste.md",
+    "Haupt Charaktere/Assan Tarig.md",
     "Haupt Charaktere/The Preacher.md",
+    "Misc/Links.md",
     "Dinge/Sandtrout.md",
     "README.md",
     "Haupt Charaktere/Paul Atreides (†).md",
@@ -185,7 +187,6 @@
     "Haupt Charaktere/Alia Atreides.md",
     "Haupt Charaktere/Jessica Atreides.md",
     "Haupt Charaktere/Edric †.md",
-    "Misc/Copy paste.md",
     "Haupt Charaktere/Stilgar.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "Misc/GitHub Zeug.md",
@@ -196,7 +197,6 @@
     "Haupt Charaktere/Gaius Helen Mohiam †.md",
     "Haupt Charaktere/Scytale †.md",
     "Haupt Charaktere/Chani Kynes †.md",
-    "Haupt Charaktere/Korba, the Panegyrist.md",
     "200w.gif",
     "Dune_obsidian_vault",
     "Bilder/Stoneburner.webp",
