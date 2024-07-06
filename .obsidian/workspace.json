@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Haupt Charaktere/Paul Atreides (†).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Haupt Charaktere/Paul Atreides (†).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Haupt Charaktere/Paul Atreides (†).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Haupt Charaktere/Paul Atreides (†).md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "8a7bea666a55eda4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Side Charaktere/Zebataleph.md",
     "Side Charaktere/Levenbrech.md",
