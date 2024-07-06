@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
+                "file": "Side Charaktere/Levenbrech (†).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
+                "file": "Side Charaktere/Levenbrech (†).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
+                "file": "Side Charaktere/Levenbrech (†).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Princess Wensicia Corrino.md"
+                "file": "Side Charaktere/Levenbrech (†).md"
               }
             }
           },
@@ -181,9 +181,11 @@
   },
   "active": "d446959b9a3d64c5",
   "lastOpenFiles": [
+    "Misc/Copy paste.md",
+    "Side Charaktere/Levenbrech (†).md",
+    "Side Charaktere/Zebataleph.md",
     "Side Charaktere/Tyekanik.md",
     "Haupt Charaktere/Princess Wensicia Corrino.md",
-    "Misc/Copy paste.md",
     "Side Charaktere/Javid.md",
     "Haupt Charaktere/Assan Tarig.md",
     "Haupt Charaktere/The Preacher.md",
@@ -192,8 +194,6 @@
     "README.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "conflict-files-obsidian-git.md",
-    "Side Charaktere/Zebataleph.md",
-    "Side Charaktere/Levenbrech.md",
     "Haupt Charaktere/Gurney Halleck.md",
     "Dinge/Laza tigers.md",
     "Untitled.canvas",
