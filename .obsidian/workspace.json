@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3828f4c81f62ea",
+        "id": "37802e44f184fdea",
         "type": "tabs",
         "children": [
           {
-            "id": "b96f5ea870253406",
+            "id": "71d094ccfd306a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Paul Atreides (†).md",
+                "file": "Misc/Copy paste.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a7bea666a55eda4",
+            "id": "84f89bd9e454fd4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Assan Tarig.md",
+                "file": "Side Charaktere/Tyekanik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d446959b9a3d64c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Assan Tarig.md",
+                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Assan Tarig.md",
+                "file": "Haupt Charaktere/Princess Wensicia Corrino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Assan Tarig.md"
+                "file": "Haupt Charaktere/Princess Wensicia Corrino.md"
               }
             }
           },
@@ -167,9 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a7bea666a55eda4",
+  "active": "d446959b9a3d64c5",
   "lastOpenFiles": [
+    "Side Charaktere/Tyekanik.md",
+    "Haupt Charaktere/Princess Wensicia Corrino.md",
     "Misc/Copy paste.md",
+    "Side Charaktere/Javid.md",
     "Haupt Charaktere/Assan Tarig.md",
     "Haupt Charaktere/The Preacher.md",
     "Misc/Links.md",
@@ -179,7 +194,6 @@
     "conflict-files-obsidian-git.md",
     "Side Charaktere/Zebataleph.md",
     "Side Charaktere/Levenbrech.md",
-    "Side Charaktere/Javid.md",
     "Haupt Charaktere/Gurney Halleck.md",
     "Dinge/Laza tigers.md",
     "Untitled.canvas",
@@ -195,8 +209,6 @@
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Haupt Charaktere/Gaius Helen Mohiam †.md",
-    "Haupt Charaktere/Scytale †.md",
-    "Haupt Charaktere/Chani Kynes †.md",
     "200w.gif",
     "Dune_obsidian_vault",
     "Bilder/Stoneburner.webp",
