@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71d094ccfd306a4c",
+            "id": "d446959b9a3d64c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "84f89bd9e454fd4f",
+            "id": "eee706f5da97e2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Tyekanik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d446959b9a3d64c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Levenbrech (†).md",
+                "file": "Side Charaktere/Essas Paymon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Levenbrech (†).md",
+                "file": "Side Charaktere/Essas Paymon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Levenbrech (†).md",
+                "file": "Side Charaktere/Essas Paymon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Levenbrech (†).md"
+                "file": "Side Charaktere/Essas Paymon.md"
               }
             }
           },
@@ -179,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d446959b9a3d64c5",
+  "active": "eee706f5da97e2ed",
   "lastOpenFiles": [
     "Misc/Copy paste.md",
+    "Side Charaktere/Essas Paymon.md",
     "Side Charaktere/Levenbrech (†).md",
     "Side Charaktere/Zebataleph.md",
     "Side Charaktere/Tyekanik.md",
@@ -208,7 +197,6 @@
     "Haupt Charaktere/Irulan Corrino.md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
-    "Haupt Charaktere/Gaius Helen Mohiam †.md",
     "200w.gif",
     "Dune_obsidian_vault",
     "Bilder/Stoneburner.webp",
