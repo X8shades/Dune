@@ -4,8 +4,12 @@ Wer (Titel): Saint Alia of the Knife
 
 Familie: [[Paul Atreides (†)]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
 
-Herkunft: [[Atreides]] Haus, born on [[Arrakis]] 
+Herkunft: [[Atreides]] House, born on [[Arrakis]] 
 
-Know-How: Very good with a sword 
+Know-How: 
+- Very good with a sword 
 
-Interessantes: Is in love with [[Duncan Idaho]]
+Interessantes: 
+- Is in love with [[Duncan Idaho]]
+- Is disturbed by the visions caused by the increased [[Spice Melange]] doses
+- can commune with Baron Viadimir Harkonnen
