@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d4d31e9b5a4419f7",
+            "id": "26df69522ca8fb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Essas Paymon †.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bde93bb1b44c6bf",
+  "active": "26df69522ca8fb24",
   "lastOpenFiles": [
-    "Side Charaktere/Essas Paymon †.md",
-    "Haupt Charaktere/Alia Atreides.md",
     "Misc/Copy paste.md",
+    "Haupt Charaktere/Alia Atreides.md",
+    "Side Charaktere/Essas Paymon †.md",
     "Misc/Links.md",
     "Side Charaktere/Levenbrech (†).md",
     "Side Charaktere/Zebataleph.md",
