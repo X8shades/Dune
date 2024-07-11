@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "37802e44f184fdea",
+        "id": "9a1bbef8dfc5ff92",
         "type": "tabs",
         "children": [
           {
-            "id": "eee706f5da97e2ed",
+            "id": "f5124a21e6c4f461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Copy paste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26df69522ca8fb24",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5bde93bb1b44c6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Alia Atreides.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/Links.md"
+              }
             }
           },
           {
@@ -171,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26df69522ca8fb24",
+  "active": "f5124a21e6c4f461",
   "lastOpenFiles": [
+    "Haupt Charaktere/Alia Atreides.md",
+    "Misc/Copy paste.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Misc/Links.md",
-    "Misc/Copy paste.md",
-    "Haupt Charaktere/Alia Atreides.md",
     "Side Charaktere/Essas Paymon †.md",
     "Side Charaktere/Levenbrech (†).md",
     "Side Charaktere/Zebataleph.md",
