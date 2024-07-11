@@ -1,8 +1,8 @@
 Wer (Titel):
 
-Familie:
+Familie: [[Assan Tariq]] (son)
 
-Herkunft:
+Herkunft: [[Fremen]]
 
 Know-How:
 
