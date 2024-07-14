@@ -7,3 +7,6 @@ Herkunft:
 Know-How:
 
 Interessantes:
+- supposed to be the next emperor 
+- follows the teachings of [[Paul Atreides (†)]]
+-
