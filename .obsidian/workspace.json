@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -178,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d75f24323e38df3",
+  "active": "1037226463808483",
   "lastOpenFiles": [
+    "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Copy paste.md",
     "Misc/Links.md",
-    "Haupt Charaktere/Farad'n Corrino.md",
     "Side Charaktere/Assan Tariq.md",
     "Side Charaktere/Muriz Tariq.md",
     "Side Charaktere/Ziarenka Valefor.md",
