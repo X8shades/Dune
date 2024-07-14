@@ -2,11 +2,10 @@ Wer (Titel):
 
 Familie: [[Princess Wensicia Corrino]] (mother), [[Shaddam Corrino IV]] (grandfather)
 
-Herkunft:
+Herkunft: sardaucar
 
 Know-How:
 
 Interessantes:
 - supposed to be the next emperor 
-- follows the teachings of [[Paul Atreides (†)]]
--
+- follows the teachings of [[Paul Atreides (†)]] but his mother orchestrated that in the background
