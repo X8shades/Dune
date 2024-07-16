@@ -3,7 +3,7 @@ Wer (Titel): Sword Master
 
 Familie:
 
-Herkunft:
+Herkunft: [[Caladan]] 
 
 Know-How: One of, if not the most skilled person with a sword /knife
 
