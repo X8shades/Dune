@@ -2,7 +2,7 @@
 
 Wer (Titel): Before Leader of the [[Fremen]] now adviser to emperor [[Paul Atreides (†)]] 
 
-Familie:
+Familie: [[Chani Kynes †]] (daughter)
 
 Herkunft: Born on [[Arrakis]]
 

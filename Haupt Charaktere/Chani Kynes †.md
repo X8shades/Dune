@@ -1,10 +1,11 @@
 ![[Zendaya_as_Chani_(Dune_2021).jpg]]
 Wer (Titel): Emperor [[Paul Atreides (†)]]´s concubine 
 
-Familie: 
+Familie:  [[Stilgar Kynes]] (dad), [[Paul Atreides (†)]] (fiance), [[Ghanima Atreides]] (daughter), [[Leto Atreides II]] (son)
 
 Herkunft: Born on [[Arrakis]]
 
 Know-How:
 
-Interessantes: Wants a child from [[Paul Atreides (†)]] 
+Interessantes:  
+- died during birthing the twins

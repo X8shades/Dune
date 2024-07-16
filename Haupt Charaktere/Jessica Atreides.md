@@ -1,5 +1,5 @@
 ![[Lady_Jessica_2021.webp]]
-Wer (Titel):
+Wer (Titel): Reverend Mother
 
 Familie: [[Leto Atreides I]] (husband), [[Paul Atreides (†)]] (son), [[Alia Atreides]] (daughter)
 

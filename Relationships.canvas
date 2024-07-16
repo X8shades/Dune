@@ -2,11 +2,22 @@
 	"nodes":[
 		{"id":"10521fbe9623a9b9","type":"file","file":"Haupt Charaktere/Alia Atreides.md","x":-620,"y":-220,"width":400,"height":280},
 		{"id":"f59bc4ed0ce34ba7","type":"file","file":"Haupt Charaktere/Duncan Idaho.md","x":20,"y":-220,"width":400,"height":280},
-		{"id":"d3c2b8f19ed66f7c","x":-620,"y":-700,"width":400,"height":328,"type":"file","file":"Haupt Charaktere/Paul Atreides (†).md"},
-		{"id":"cce5143dea72421b","x":-1254,"y":-315,"width":434,"height":400,"type":"file","file":"Haupt Charaktere/Jessica Atreides.md"}
+		{"id":"cce5143dea72421b","type":"file","file":"Haupt Charaktere/Jessica Atreides.md","x":-1420,"y":-480,"width":434,"height":400},
+		{"id":"ad2f8b5b94f2026c","type":"file","file":"Haupt Charaktere/Ghanima Atreides.md","x":20,"y":-700,"width":400,"height":400},
+		{"id":"d3c2b8f19ed66f7c","type":"file","file":"Haupt Charaktere/Paul Atreides (†).md","x":-620,"y":-900,"width":400,"height":328},
+		{"id":"8f3a13421c629e07","type":"file","file":"Haupt Charaktere/Leto Atreides II.md","x":20,"y":-1200,"width":400,"height":400},
+		{"id":"43593f397b2ddbc4","type":"file","file":"Haupt Charaktere/Chani Kynes †.md","x":-620,"y":-1400,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c2330660e5b1010d","fromNode":"10521fbe9623a9b9","fromSide":"right","toNode":"f59bc4ed0ce34ba7","toSide":"left","toEnd":"none","label":"love each other"},
-		{"id":"07961265b098abb2","fromNode":"10521fbe9623a9b9","fromSide":"top","toNode":"d3c2b8f19ed66f7c","toSide":"bottom","toEnd":"none","label":"brother and sister"}
+		{"id":"07961265b098abb2","fromNode":"10521fbe9623a9b9","fromSide":"top","toNode":"d3c2b8f19ed66f7c","toSide":"bottom","toEnd":"none","label":"brother and sister"},
+		{"id":"a4e2a0e11713e1ca","fromNode":"cce5143dea72421b","fromSide":"right","toNode":"d3c2b8f19ed66f7c","toSide":"left","label":"mother"},
+		{"id":"638d7b2bb9e6dfa1","fromNode":"cce5143dea72421b","fromSide":"right","toNode":"10521fbe9623a9b9","toSide":"left","label":"mother,\nwants to get rid of her"},
+		{"id":"044233203f40b174","fromNode":"10521fbe9623a9b9","fromSide":"left","toNode":"cce5143dea72421b","toSide":"bottom","label":"also wants to get rid of her"},
+		{"id":"1c3c4debac0c0896","fromNode":"d3c2b8f19ed66f7c","fromSide":"right","toNode":"ad2f8b5b94f2026c","toSide":"left","label":"father"},
+		{"id":"19e62271442e4656","fromNode":"d3c2b8f19ed66f7c","fromSide":"right","toNode":"8f3a13421c629e07","toSide":"left","label":"father"},
+		{"id":"cdefc49841d4e0ef","fromNode":"ad2f8b5b94f2026c","fromSide":"top","toNode":"8f3a13421c629e07","toSide":"bottom","toEnd":"none","label":"twins, understand each other\nvery well"},
+		{"id":"589284567d9193de","fromNode":"43593f397b2ddbc4","fromSide":"right","toNode":"8f3a13421c629e07","toSide":"left","label":"mother"},
+		{"id":"fd3da1e64577fbc6","fromNode":"43593f397b2ddbc4","fromSide":"right","toNode":"ad2f8b5b94f2026c","toSide":"left"}
 	]
 }

@@ -9,4 +9,4 @@ Know-How:
 
 Interessantes: 
 - In a plot with [[Irulan Corrino]], [[Scytale †]] and [[Edric †]] to kill [[Paul Atreides (†)]] 
-- killed by [[Stilgar]] 
+- killed by [[Stilgar Kynes]] 
