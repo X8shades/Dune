@@ -39,8 +39,8 @@
               "state": {
                 "file": "Relationships.canvas",
                 "viewState": {
-                  "x": -97.63373097995066,
-                  "y": -267.03768520314213,
+                  "x": 93.87426860407015,
+                  "y": -289.2122649215006,
                   "zoom": -1.3333333333333333
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md"
+                "file": "Haupt Charaktere/Ghanima Atreides.md"
               }
             }
           },
@@ -196,10 +196,11 @@
   },
   "active": "5c04da4b21400753",
   "lastOpenFiles": [
-    "Haupt Charaktere/Chani Kynes †.md",
-    "Relationships.canvas",
-    "Haupt Charaktere/Stilgar Kynes.md",
+    "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Paul Atreides (†).md",
+    "Relationships.canvas",
+    "Haupt Charaktere/Chani Kynes †.md",
+    "Haupt Charaktere/Stilgar Kynes.md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "recap.md",
@@ -223,7 +224,6 @@
     "Side Charaktere/Javid.md",
     "Haupt Charaktere/Assan Tarig.md",
     "Haupt Charaktere/The Preacher.md",
-    "Dinge/Sandtrout.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",

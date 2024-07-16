@@ -9,3 +9,5 @@ Know-How:
 - very smart and has genetic memory
 
 Interessantes:
+- is very much like her mother: It was a ghostly resurrection, an uncanny resemblance
+- 
