@@ -1,5 +1,5 @@
 ![[is-paul-atreides-a-villain-1-1709567037294.webp]]
-Wer (Titel): Duke of Arakis, Kwisatz Haderach, Emperor
+Wer (Titel): Former Duke of Arakis, Kwisatz Haderach, Former Emperor of the universe
 
 Familie: [[Alia Atreides]](Sister) ,[[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father), [[Leto Atreides II]] (First son), [[Ghanima Atreides]] (daughter)
 Herkunft: [[Atreides]] Haus, born on [[Caladan]]

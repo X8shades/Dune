@@ -1,6 +1,6 @@
 ![[Anya_Taylor-Joy_as_Alia_Atreides_in_2024's_Dune-_Part_Two_.webp]]
 
-Wer (Titel): Saint Alia of the Knife
+Wer (Titel): Saint Alia of the Knife, current Emperor of the universe
 
 Familie: [[Paul Atreides (†)]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
 

@@ -37,12 +37,24 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Relationships.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -401.30117793280806,
+                  "y": -173.1414040228069,
+                  "zoom": -0.6666666666666666
                 }
+              }
+            }
+          },
+          {
+            "id": "ddc79834e3935646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "file": "Haupt Charaktere/Jessica Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md",
+                "file": "Haupt Charaktere/Jessica Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Duncan Idaho.md"
+                "file": "Haupt Charaktere/Jessica Atreides.md"
               }
             }
           },
@@ -184,8 +196,10 @@
   },
   "active": "1b83b76966d4852c",
   "lastOpenFiles": [
+    "Haupt Charaktere/Shaddam Corrino IV.md",
+    "Haupt Charaktere/Duncan Idaho.md",
+    "Relationships.canvas",
     "recap.md",
-    "Untitled.canvas",
     "README.md",
     "Untitled.md",
     "templates/character.md",
@@ -211,7 +225,6 @@
     "conflict-files-obsidian-git.md",
     "Haupt Charaktere/Gurney Halleck.md",
     "Dinge/Laza tigers.md",
-    "Side Charaktere/Leto Atreides I.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",
