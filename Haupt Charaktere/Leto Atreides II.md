@@ -10,4 +10,4 @@ Know-How:
 
 Interessantes:
 - has memories only his father [[Paul Atreides (†)]] should posses  
-- has similar trates
+- has similar traits as [[Leto Atreides I]], not only in his looks, but also his demeanor  
