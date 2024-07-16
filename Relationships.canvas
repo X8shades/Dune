@@ -6,7 +6,7 @@
 		{"id":"ad2f8b5b94f2026c","type":"file","file":"Haupt Charaktere/Ghanima Atreides.md","x":20,"y":-700,"width":400,"height":400},
 		{"id":"d3c2b8f19ed66f7c","type":"file","file":"Haupt Charaktere/Paul Atreides (†).md","x":-620,"y":-900,"width":400,"height":328},
 		{"id":"8f3a13421c629e07","type":"file","file":"Haupt Charaktere/Leto Atreides II.md","x":20,"y":-1200,"width":400,"height":400},
-		{"id":"00855bf5cea04678","type":"file","file":"Haupt Charaktere/Stilgar Kynes.md","x":20,"y":220,"width":400,"height":400}
+		{"id":"00855bf5cea04678","type":"file","file":"Haupt Charaktere/Stilgar Kynes.md","x":100,"y":200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c2330660e5b1010d","fromNode":"10521fbe9623a9b9","fromSide":"right","toNode":"f59bc4ed0ce34ba7","toSide":"left","toEnd":"none","label":"love each other"},
@@ -18,6 +18,6 @@
 		{"id":"19e62271442e4656","fromNode":"d3c2b8f19ed66f7c","fromSide":"right","toNode":"8f3a13421c629e07","toSide":"left","label":"father"},
 		{"id":"cdefc49841d4e0ef","fromNode":"ad2f8b5b94f2026c","fromSide":"top","toNode":"8f3a13421c629e07","toSide":"bottom","toEnd":"none","label":"twins, understand each other\nvery well"},
 		{"id":"ae57b979f25f0cb1","fromNode":"00855bf5cea04678","fromSide":"left","toNode":"10521fbe9623a9b9","toSide":"bottom","label":"adviser"},
-		{"id":"80a88b7a240b169d","fromNode":"8f3a13421c629e07","fromSide":"right","toNode":"00855bf5cea04678","toSide":"right","label":"told him about his fu"}
+		{"id":"80a88b7a240b169d","fromNode":"8f3a13421c629e07","fromSide":"right","toNode":"00855bf5cea04678","toSide":"right","label":"told him about his future"}
 	]
 }
