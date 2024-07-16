@@ -1,6 +1,6 @@
 ![[stilgar_dune_1713628285518_1713628285672.avif]]
 
-Wer (Titel): Before Leader of the [[Fremen]] now adviser to emperor [[Paul Atreides (†)]] 
+Wer (Titel): Before Leader of the [[Fremen]] now adviser to emperor [[Alia Atreides]]
 
 Familie: [[Chani Kynes †]] (daughter)
 
