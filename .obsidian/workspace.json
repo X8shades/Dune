@@ -52,14 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Chani Kynes †.md",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationships.canvas"
+                "file": "Haupt Charaktere/Leto Atreides II.md"
               }
             }
           },
@@ -194,11 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b83b76966d4852c",
+  "active": "5c04da4b21400753",
   "lastOpenFiles": [
     "Haupt Charaktere/Chani Kynes †.md",
-    "Haupt Charaktere/Stilgar Kynes.md",
     "Relationships.canvas",
+    "Haupt Charaktere/Stilgar Kynes.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
@@ -224,7 +224,6 @@
     "Haupt Charaktere/Assan Tarig.md",
     "Haupt Charaktere/The Preacher.md",
     "Dinge/Sandtrout.md",
-    "conflict-files-obsidian-git.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",

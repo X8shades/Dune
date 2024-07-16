@@ -10,3 +10,4 @@ Know-How:
 
 Interessantes:
 - has memories only his father [[Paul Atreides (†)]] should posses  
+- has similar trates
