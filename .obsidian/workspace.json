@@ -23,11 +23,10 @@
             "id": "1037226463808483",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Misc/Links.md",
-                "mode": "source",
-                "source": false
+                "file": "Misc/Copy paste.md",
+                "staged": false
               }
             }
           },
@@ -125,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,13 +161,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Misc/Links.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "db0fb8f2640c9611",
+            "id": "bcb80f79c76fa3ad",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,6 +190,9 @@
   },
   "active": "1037226463808483",
   "lastOpenFiles": [
+    "Misc/GitHub Zeug.md",
+    "Misc/Copy paste.md",
+    "Misc/Links.md",
     "Relationships.canvas",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Leto Atreides II.md",
@@ -207,10 +205,8 @@
     "README.md",
     "Untitled.md",
     "templates/character.md",
-    "Misc/Copy paste.md",
     "templates",
     "Neuer Ordner",
-    "Misc/Links.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Side Charaktere/Assan Tariq.md",
     "Side Charaktere/Muriz Tariq.md",
