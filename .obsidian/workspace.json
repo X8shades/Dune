@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinge/CHOAM.md",
+                "file": "Dinge/Spice Melange.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinge/CHOAM.md",
+                "file": "Dinge/Spice Melange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinge/CHOAM.md",
+                "file": "Dinge/Spice Melange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinge/CHOAM.md"
+                "file": "Dinge/Spice Melange.md"
               }
             }
           },
@@ -155,8 +155,8 @@
   },
   "active": "eb5ca96faf990866",
   "lastOpenFiles": [
-    "README.md",
     "Dinge/CHOAM.md",
+    "README.md",
     "recap.md",
     "Relationships.canvas",
     "Haupt Charaktere/Farad'n Corrino.md",
