@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
+                "file": "Side Charaktere/Ghadhean al-Fal.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
+                "file": "Side Charaktere/Ghadhean al-Fal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
+                "file": "Side Charaktere/Ghadhean al-Fal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md"
+                "file": "Side Charaktere/Ghadhean al-Fal.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "5ecbd4aec31a88f8",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "Side Charaktere/Tagir Mohandis.md",
+    "Side Charaktere/Ghadhean al-Fal.md",
+    "Misc/Links.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
@@ -208,7 +209,6 @@
     "Side Charaktere/Essas Paymon †.md",
     "Side Charaktere/Levenbrech (†).md",
     "Side Charaktere/Zebataleph.md",
-    "Side Charaktere/Tyekanik.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",
