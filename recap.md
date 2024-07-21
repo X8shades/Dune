@@ -5,4 +5,5 @@ This has to happen because Jessica told the [[Bene Gesserit]] that Alia might pr
 
 If word got out there would be killings and torture against the reverend mothers 
 
-# Stilgar
+# Alia and Jessica
+after a Test from [[Alia Atreides]], using [[Tagir Mohandis]] and [[Ghadhean al-Fal]], [[Jessica Atreides]] is almost killed
