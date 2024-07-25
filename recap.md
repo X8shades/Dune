@@ -7,3 +7,8 @@ If word got out there would be killings and torture against the reverend mothers
 
 # Alia and Jessica
 after a Test from [[Alia Atreides]], using [[Tagir Mohandis]] and [[Ghadhean al-Fal]], [[Jessica Atreides]] is almost killed
+
+# Ghanima and Leto
+killed both [[Laza tigers]]
+- Leto went to Jacurutu on a worm
+- Ghanima hypnotized herself so people don't know where Leto is going

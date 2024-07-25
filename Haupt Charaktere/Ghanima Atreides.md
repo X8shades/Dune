@@ -10,4 +10,4 @@ Know-How:
 
 Interessantes:
 - is very much like her mother: It was a ghostly resurrection, an uncanny resemblance
-- 
+- hypnotized herself into believing that her brother is dead
