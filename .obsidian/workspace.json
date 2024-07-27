@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57760cf457c984d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -153,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3752f4cafa1fdf9d",
+  "active": "57760cf457c984d4",
   "lastOpenFiles": [
+    "recap.md",
     "Misc/Links.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
@@ -164,7 +178,6 @@
     "Haupt Charaktere/Farad'n Corrino.md",
     "Bilder/Faradn1-CoD.webp",
     "Haupt Charaktere/Wensicia Corrino.md",
-    "recap.md",
     "Relationships.canvas",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
