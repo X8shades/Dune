@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recap.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -155,12 +155,12 @@
   },
   "active": "5ecbd4aec31a88f8",
   "lastOpenFiles": [
+    "recap.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/Links.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Misc/GitHub Zeug.md",
-    "recap.md",
     "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Tagir Mohandis.md",
     "Dinge/CHOAM.md",
