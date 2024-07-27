@@ -1,4 +1,6 @@
-Wer (Titel): Princess
+![[Wensicia2.webp]]
+
+Wer (Titel): Princess of House Corrino
 
 Familie: [[Irulan Corrino]] (sister)
 

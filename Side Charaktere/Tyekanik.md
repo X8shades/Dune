@@ -7,5 +7,5 @@ Herkunft:
 Know-How:
 
 Interessantes:
-- some hired muscle for [[Princess Wensicia Corrino]] to kill [[Ghanima Atreides]] and [[Leto Atreides II]]
+- some hired muscle for [[Wensicia Corrino]] to kill [[Ghanima Atreides]] and [[Leto Atreides II]]
 - 

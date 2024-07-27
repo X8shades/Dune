@@ -1,6 +1,6 @@
 Wer (Titel):
 
-Familie: [[Princess Wensicia Corrino]] (mother), [[Shaddam Corrino IV]] (grandfather)
+Familie: [[Wensicia Corrino]] (mother), [[Shaddam Corrino IV]] (grandfather)
 
 Herkunft: sardaucar
 

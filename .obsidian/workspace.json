@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Palimbasha.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad84b96682b7844d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Relationships.canvas",
+                "viewState": {
+                  "x": 618.650100708008,
+                  "y": -290.59996223449707,
+                  "zoom": -1.377727452691787
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Relationships.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Relationships.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Relationships.canvas"
               }
             }
           },
@@ -153,11 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ecbd4aec31a88f8",
+  "active": "ad84b96682b7844d",
   "lastOpenFiles": [
+    "Side Charaktere/Palimbasha.md",
+    "Bilder/Palimbasha.webp",
+    "Relationships.canvas",
+    "Haupt Charaktere/Wensicia Corrino.md",
+    "Bilder/Wensicia2.webp",
+    "Misc/Links.md",
     "recap.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Misc/Links.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Misc/GitHub Zeug.md",
@@ -166,7 +187,6 @@
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
-    "Relationships.canvas",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Copy paste.md",
     "Haupt Charaktere/Chani Kynes †.md",
@@ -181,9 +201,6 @@
     "Side Charaktere/Muriz Tariq.md",
     "Side Charaktere/Ziarenka Valefor.md",
     "Haupt Charaktere/Alia Atreides.md",
-    "Side Charaktere/Essas Paymon †.md",
-    "Side Charaktere/Levenbrech (†).md",
-    "Side Charaktere/Zebataleph.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",
@@ -194,8 +211,6 @@
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
     "Bilder/scytale-foto.jpg",
     "Bilder/3674e55da1fb9b980e174ca59ca58cdc.jpg",
-    "Bilder/Jason-Momoa-Duncan-Idaho-Dune.avif",
-    "Bilder/is-paul-atreides-a-villain-1-1709567037294.webp",
     "Häuser",
     "Bilder",
     "Misc",
