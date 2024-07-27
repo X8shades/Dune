@@ -1,6 +1,6 @@
 Wer (Titel): leaders of the delegation
 
-Familie:
+Familie: [[Namri]] (father)
 
 Herkunft:
 
