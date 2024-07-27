@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ecbd4aec31a88f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc900b27636bffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Namri.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7dba4051ef16c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Copy paste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad84b96682b7844d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3752f4cafa1fdf9d",
             "type": "leaf",
             "state": {
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Namri.md",
+                "file": "recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Namri.md",
+                "file": "recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Namri.md"
+                "file": "recap.md"
               }
             }
           },
@@ -202,17 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dc900b27636bffd",
+  "active": "3752f4cafa1fdf9d",
   "lastOpenFiles": [
-    "Side Charaktere/Javid.md",
-    "Side Charaktere/Namri.md",
-    "Side Charaktere/Tagir Mohandis.md",
-    "Side Charaktere/Palimbasha †.md",
+    "Misc/Links.md",
     "Misc/Copy paste.md",
+    "Side Charaktere/Tagir Mohandis.md",
+    "Side Charaktere/Namri.md",
+    "Side Charaktere/Javid.md",
+    "Side Charaktere/Palimbasha †.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Bilder/Faradn1-CoD.webp",
     "Haupt Charaktere/Wensicia Corrino.md",
-    "Misc/Links.md",
     "recap.md",
     "Relationships.canvas",
     "Bilder/Palimbasha.webp",
