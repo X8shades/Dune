@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9dc900b27636bffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side Charaktere/Javid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d7dba4051ef16c15",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
+                "file": "Side Charaktere/Javid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md",
+                "file": "Side Charaktere/Javid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Tagir Mohandis.md"
+                "file": "Side Charaktere/Javid.md"
               }
             }
           },
@@ -189,8 +202,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ecbd4aec31a88f8",
+  "active": "9dc900b27636bffd",
   "lastOpenFiles": [
+    "Side Charaktere/Tagir Mohandis.md",
     "Side Charaktere/Palimbasha †.md",
     "Misc/Copy paste.md",
     "Haupt Charaktere/Farad'n Corrino.md",
@@ -206,7 +220,6 @@
     "Haupt Charaktere/Leto Atreides II.md",
     "Misc/GitHub Zeug.md",
     "Side Charaktere/Ghadhean al-Fal.md",
-    "Side Charaktere/Tagir Mohandis.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
