@@ -7,8 +7,8 @@
 		{"id":"d3c2b8f19ed66f7c","type":"file","file":"Haupt Charaktere/Paul Atreides (†).md","x":-620,"y":-900,"width":400,"height":328},
 		{"id":"8f3a13421c629e07","type":"file","file":"Haupt Charaktere/Leto Atreides II.md","x":20,"y":-1300,"width":400,"height":400},
 		{"id":"00855bf5cea04678","type":"file","file":"Haupt Charaktere/Stilgar Kynes.md","x":220,"y":200,"width":400,"height":400},
-		{"id":"071700adb4e09711","type":"file","file":"Haupt Charaktere/Wensicia Corrino.md","x":1840,"y":-1100,"width":400,"height":560},
-		{"id":"c26d26b2153d5017","x":1080,"y":-1068,"width":400,"height":400,"type":"file","file":"Side Charaktere/Palimbasha.md"}
+		{"id":"c26d26b2153d5017","x":1080,"y":-1068,"width":400,"height":400,"type":"file","file":"Side Charaktere/Palimbasha.md"},
+		{"id":"071700adb4e09711","type":"file","file":"Haupt Charaktere/Wensicia Corrino.md","x":1840,"y":-1132,"width":400,"height":560}
 	],
 	"edges":[
 		{"id":"c2330660e5b1010d","fromNode":"10521fbe9623a9b9","fromSide":"right","toNode":"f59bc4ed0ce34ba7","toSide":"left","toEnd":"none","label":"love each other"},

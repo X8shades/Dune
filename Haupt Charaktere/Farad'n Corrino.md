@@ -1,4 +1,6 @@
-Wer (Titel):
+![[Faradn1-CoD.webp]]
+
+Wer (Titel): Prince of House Corrino
 
 Familie: [[Wensicia Corrino]] (mother), [[Shaddam Corrino IV]] (grandfather)
 

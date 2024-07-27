@@ -12,3 +12,4 @@ after a Test from [[Alia Atreides]], using [[Tagir Mohandis]] and [[Ghadhean al-
 killed both [[Laza tigers]]
 - Leto went to Jacurutu on a worm
 - Ghanima hypnotized herself so people don't know where Leto is going
+- Ghanima got heavily wounded on her arm and leg

@@ -20,22 +20,55 @@
             }
           },
           {
+            "id": "9fb1df22297a8fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Wensicia Corrino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad84b96682b7844d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Relationships.canvas",
-                "viewState": {
-                  "x": 618.650100708008,
-                  "y": -290.59996223449707,
-                  "zoom": -1.377727452691787
-                }
+                "file": "Misc/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fd301a9ef55989a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3752f4cafa1fdf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Haupt Charaktere/Farad'n Corrino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Haupt Charaktere/Farad'n Corrino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationships.canvas"
+                "file": "Haupt Charaktere/Farad'n Corrino.md"
               }
             }
           },
@@ -169,15 +202,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad84b96682b7844d",
+  "active": "94bc7b768634e9c3",
   "lastOpenFiles": [
-    "Side Charaktere/Palimbasha.md",
-    "Bilder/Palimbasha.webp",
-    "Relationships.canvas",
+    "Bilder/Faradn1-CoD.webp",
     "Haupt Charaktere/Wensicia Corrino.md",
-    "Bilder/Wensicia2.webp",
+    "Side Charaktere/Palimbasha.md",
+    "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Links.md",
     "recap.md",
+    "Relationships.canvas",
+    "Bilder/Palimbasha.webp",
+    "Bilder/Wensicia2.webp",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Haupt Charaktere/Leto Atreides II.md",
@@ -187,7 +222,6 @@
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
-    "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Copy paste.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Stilgar Kynes.md",
