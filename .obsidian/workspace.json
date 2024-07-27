@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Palimbasha.md",
+                "file": "Side Charaktere/Palimbasha †.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9fb1df22297a8fef",
+            "id": "d7dba4051ef16c15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Wensicia Corrino.md",
+                "file": "Misc/Copy paste.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "2fd301a9ef55989a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3752f4cafa1fdf9d",
             "type": "leaf",
             "state": {
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "file": "Side Charaktere/Palimbasha †.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "file": "Side Charaktere/Palimbasha †.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md"
+                "file": "Side Charaktere/Palimbasha †.md"
               }
             }
           },
@@ -202,12 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94bc7b768634e9c3",
+  "active": "5ecbd4aec31a88f8",
   "lastOpenFiles": [
+    "Misc/Copy paste.md",
+    "Side Charaktere/Palimbasha †.md",
+    "Haupt Charaktere/Farad'n Corrino.md",
     "Bilder/Faradn1-CoD.webp",
     "Haupt Charaktere/Wensicia Corrino.md",
-    "Side Charaktere/Palimbasha.md",
-    "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Links.md",
     "recap.md",
     "Relationships.canvas",
@@ -222,7 +210,6 @@
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
-    "Misc/Copy paste.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Stilgar Kynes.md",
     "Haupt Charaktere/Shaddam Corrino IV.md",
@@ -244,7 +231,6 @@
     "Bilder/Edric-2003-portrait.webp",
     "Bilder/Zendaya_as_Chani_(Dune_2021).jpg",
     "Bilder/scytale-foto.jpg",
-    "Bilder/3674e55da1fb9b980e174ca59ca58cdc.jpg",
     "Häuser",
     "Bilder",
     "Misc",
