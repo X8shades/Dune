@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "recap.md"
               }
             }
           },
@@ -166,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57760cf457c984d4",
+  "active": "3752f4cafa1fdf9d",
   "lastOpenFiles": [
-    "recap.md",
     "Misc/Links.md",
+    "recap.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
     "Side Charaktere/Namri.md",

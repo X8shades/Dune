@@ -13,8 +13,13 @@ killed both [[Laza tigers]]
 - Leto went to Jacurutu on a worm
 - Ghanima hypnotized herself so people don't know where Leto is going
 - Ghanima got heavily wounded on her arm and leg
-# Ghanima and Alia
+# Ghanima and Leto
 Alia is currently trying to persuade Ghanima to marry Farradn
 Jessica and Duncan are on Salusa Secundus
 - Jessica is training Farradn in the Bene Gesserit way
 [[Leto Atreides II]] is being trained by [[Namri]] and forced by [[Gurney Halleck]] to drink the blue Spice drink
+
+# Ghanima and Alia
+Alia successfully convinced Ghanima to marry farad'n
+- Ghanima wants to take revenge for killing Leto
+- Irulan doesn't like it because they are going to destroy everything Paul had built
