@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Sabiha.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Haupt Charaktere/Sabiha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Haupt Charaktere/Sabiha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Haupt Charaktere/Sabiha.md"
               }
             }
           },
@@ -165,9 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3752f4cafa1fdf9d",
+  "active": "57760cf457c984d4",
   "lastOpenFiles": [
     "Misc/Links.md",
+    "Haupt Charaktere/Sabiha.md",
     "recap.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
@@ -198,7 +200,6 @@
     "Neuer Ordner",
     "Side Charaktere/Assan Tariq.md",
     "Side Charaktere/Muriz Tariq.md",
-    "Side Charaktere/Ziarenka Valefor.md",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
     "200w.gif",
     "Dune_obsidian_vault",
