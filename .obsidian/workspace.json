@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "cd2bcb2e81e40bd6",
+            "id": "d0700c49961af199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Sabiha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57760cf457c984d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Sabiha.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Sabiha.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Sabiha.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Sabiha.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -178,14 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd2bcb2e81e40bd6",
+  "active": "d0700c49961af199",
   "lastOpenFiles": [
-    "Haupt Charaktere/Farad'n Corrino.md",
+    "recap.md",
+    "Relationships.canvas",
+    "Haupt Charaktere/Sabiha.md",
     "Side Charaktere/Sabiha.md",
+    "Haupt Charaktere/Farad'n Corrino.md",
+    "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Muriz.md",
     "Misc/Links.md",
-    "recap.md",
-    "Haupt Charaktere/Sabiha.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
     "Side Charaktere/Namri.md",
@@ -193,14 +183,12 @@
     "Side Charaktere/Palimbasha †.md",
     "Bilder/Faradn1-CoD.webp",
     "Haupt Charaktere/Wensicia Corrino.md",
-    "Relationships.canvas",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Paul Atreides (†).md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Misc/GitHub Zeug.md",
-    "Side Charaktere/Ghadhean al-Fal.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
     "README.md",
@@ -209,7 +197,6 @@
     "Haupt Charaktere/Shaddam Corrino IV.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Untitled.md",
-    "templates/character.md",
     "templates",
     "Neuer Ordner",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
