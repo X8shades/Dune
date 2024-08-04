@@ -7,6 +7,7 @@ Familie: [[Wensicia Corrino]] (mother), [[Shaddam Corrino IV]] (grandfather)
 Herkunft: sardaucar
 
 Know-How:
+- Is starting to gain the [[Bene Gesserit]] know how
 
 Interessantes:
 - supposed to be the next emperor 
