@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Leto Atreides II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Haupt Charaktere/Leto Atreides II.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "d0700c49961af199",
   "lastOpenFiles": [
+    "Misc/Links.md",
     "recap.md",
     "Relationships.canvas",
     "Haupt Charaktere/Sabiha.md",
@@ -175,7 +176,6 @@
     "Haupt Charaktere/Farad'n Corrino.md",
     "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Muriz.md",
-    "Misc/Links.md",
     "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
     "Side Charaktere/Namri.md",
