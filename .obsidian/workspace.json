@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -190,12 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38ac6070b5fc3177",
+  "active": "b41b1f1f9cd8aef5",
   "lastOpenFiles": [
+    "Haupt Charaktere/Leto Atreides II.md",
     "Misc/Links.md",
     "recap.md",
     "Misc/Copy paste.md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Relationships.canvas",
     "Haupt Charaktere/Sabiha.md",
     "Side Charaktere/Sabiha.md",
