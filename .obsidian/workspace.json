@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b41b1f1f9cd8aef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0700c49961af199",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -166,17 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0700c49961af199",
+  "active": "b41b1f1f9cd8aef5",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "recap.md",
+    "Misc/Copy paste.md",
+    "Haupt Charaktere/Leto Atreides II.md",
+    "Misc/Links.md",
     "Relationships.canvas",
     "Haupt Charaktere/Sabiha.md",
     "Side Charaktere/Sabiha.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Muriz.md",
-    "Misc/Copy paste.md",
     "Side Charaktere/Tagir Mohandis.md",
     "Side Charaktere/Namri.md",
     "Side Charaktere/Javid.md",
@@ -187,7 +200,6 @@
     "Bilder/Wensicia2.webp",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Paul Atreides (†).md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Misc/GitHub Zeug.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
