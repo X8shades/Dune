@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides †.md",
+                "file": "recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides †.md",
+                "file": "recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Alia Atreides †.md"
+                "file": "recap.md"
               }
             }
           },
@@ -202,11 +202,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5d65d899918a16b",
+  "active": "3752f4cafa1fdf9d",
   "lastOpenFiles": [
-    "Haupt Charaktere/Leto Atreides II.md",
     "Misc/Links.md",
     "Misc/Copy paste.md",
+    "Haupt Charaktere/Alia Atreides †.md",
+    "Haupt Charaktere/Leto Atreides II.md",
     "recap.md",
     "README.md",
     "Relationships.canvas",
