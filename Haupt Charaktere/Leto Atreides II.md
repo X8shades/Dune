@@ -1,6 +1,6 @@
 Wer (Titel):
 
-Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides (†)]] (Father), [[Alia Atreides]] (Aunt), [[Ghanima Atreides]] (Sister)
+Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides (†)]] (Father), [[Alia Atreides †]] (Aunt), [[Ghanima Atreides]] (Sister)
 
 Herkunft:  [[Atreides]] House, born on [[Arrakis]]
 

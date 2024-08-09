@@ -12,4 +12,4 @@ Interessantes:
 - Javid she judged far more dangerous of the two, a man of private counsel, simultaneously magnetic and—she could find no other word—**repellent**
 - now with [[Jessica Atreides]]'s party 
 - killed by [[Duncan Idaho †]] 
-- had a relationship with [[Alia Atreides]] 
+- had a relationship with [[Alia Atreides †]] 

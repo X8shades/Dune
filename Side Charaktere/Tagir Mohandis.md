@@ -9,4 +9,4 @@ Know-How:
 
 Interessantes:
 - wants money so he can get back to [[Salusa Secundus]] and return to the Faradns court
-- is being judged by [[Jessica Atreides]] and [[Alia Atreides]] respectfully 
+- is being judged by [[Jessica Atreides]] and [[Alia Atreides †]] respectfully 

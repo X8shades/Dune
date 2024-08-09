@@ -1,6 +1,6 @@
 Wer (Titel):
 
-Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides (†)]] (Father), [[Leto Atreides II]] (Brother), [[Alia Atreides]] (Aunt)
+Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides (†)]] (Father), [[Leto Atreides II]] (Brother), [[Alia Atreides †]] (Aunt)
 
 Herkunft:  [[Atreides]] Haus, born on [[Caladan]] 
 

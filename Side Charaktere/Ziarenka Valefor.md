@@ -1,4 +1,4 @@
-Wer (Titel): Guardian Amazon of [[Alia Atreides]]
+Wer (Titel): Guardian Amazon of [[Alia Atreides †]]
 
 Familie:
 
