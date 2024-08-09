@@ -7,4 +7,4 @@ Herkunft:
 
 Know-How:
 
-Interessantes: Was a rough and bearded commander of the third wave in the battle of Arrakeen. Apparently conspired against [[Paul Atreides (†)]] with traitors and took his eyesight
+Interessantes: Was a rough and bearded commander of the third wave in the battle of Arrakeen. Apparently conspired against [[Paul Atreides †]] with traitors and took his eyesight

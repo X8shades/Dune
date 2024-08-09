@@ -11,4 +11,5 @@ Know-How:
 Interessantes: 
 - His Wife Irulan Corrino doesn't like him because he replaced her [[Shaddam Corrino IV|father]] as an emperor and sent him to [[Salusa Secundus]]
 - Probably dead after completely losing his eyesight. Went into the desert because of [[Fremen]] believes 
+- now actually dead after being stabbed by one of his own priests after saying blasphemy 
 

@@ -10,6 +10,6 @@ Know-How:
 - can ride worms 
 
 Interessantes:
-- was appointed by [[Leto Atreides I]] to train [[Paul Atreides (†)]]
-- after [[Paul Atreides (†)]]'s death now together with [[Jessica Atreides]]
+- was appointed by [[Leto Atreides I]] to train [[Paul Atreides †]]
+- after [[Paul Atreides †]]'s death now together with [[Jessica Atreides]]
 - 

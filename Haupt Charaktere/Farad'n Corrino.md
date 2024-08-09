@@ -11,4 +11,4 @@ Know-How:
 
 Interessantes:
 - supposed to be the next emperor 
-- follows the teachings of [[Paul Atreides (†)]] but his mother orchestrated that in the background
+- follows the teachings of [[Paul Atreides †]] but his mother orchestrated that in the background

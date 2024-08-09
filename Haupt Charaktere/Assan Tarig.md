@@ -1,4 +1,4 @@
-Wer (Titel): young guide of [[The Preacher]] ([[Paul Atreides (†)]])
+Wer (Titel): young guide of [[The Preacher]] ([[Paul Atreides †]])
 
 Familie:
 

@@ -1,1 +1,1 @@
-[[Paul Atreides (†)]] in disguise ?
+[[Paul Atreides †]] in disguise ?

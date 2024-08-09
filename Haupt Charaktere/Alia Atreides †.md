@@ -2,7 +2,7 @@
 
 Wer (Titel): Saint Alia of the Knife, current Emperor of the universe
 
-Familie: [[Paul Atreides (†)]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
+Familie: [[Paul Atreides †]] (Brother), [[Jessica Atreides]] (Mother), [[Leto Atreides I]] (Father)
 
 Herkunft: [[Atreides]] House, born on [[Arrakis]] 
 

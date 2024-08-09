@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "3752f4cafa1fdf9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc90069bd78f7af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Haupt Charaktere/Leto Atreides II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f03d6ec9d40f0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Paul Atreides †.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Haupt Charaktere/Paul Atreides †.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Haupt Charaktere/Paul Atreides †.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Haupt Charaktere/Paul Atreides †.md"
               }
             }
           },
@@ -202,13 +202,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3752f4cafa1fdf9d",
+  "active": "0f03d6ec9d40f0d8",
   "lastOpenFiles": [
-    "Misc/Links.md",
-    "Misc/Copy paste.md",
-    "Haupt Charaktere/Alia Atreides †.md",
     "Haupt Charaktere/Leto Atreides II.md",
+    "Misc/Copy paste.md",
+    "Haupt Charaktere/Chani Kynes †.md",
     "recap.md",
+    "Haupt Charaktere/Alia Atreides †.md",
+    "Haupt Charaktere/Paul Atreides †.md",
+    "Misc/Links.md",
     "README.md",
     "Relationships.canvas",
     "Haupt Charaktere/Duncan Idaho †.md",
@@ -228,11 +230,9 @@
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Haupt Charaktere/Paul Atreides (†).md",
     "Misc/GitHub Zeug.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
-    "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Stilgar Kynes.md",
     "templates",
     "Neuer Ordner",

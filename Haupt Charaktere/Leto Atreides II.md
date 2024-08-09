@@ -1,6 +1,6 @@
 Wer (Titel):
 
-Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides (†)]] (Father), [[Alia Atreides †]] (Aunt), [[Ghanima Atreides]] (Sister)
+Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides †]] (Father), [[Alia Atreides †]] (Aunt), [[Ghanima Atreides]] (Sister)
 
 Herkunft:  [[Atreides]] House, born on [[Arrakis]]
 
@@ -11,7 +11,7 @@ Know-How:
 - fire and normal guns seem to not work against him
 
 Interessantes:
-- has memories only his father [[Paul Atreides (†)]] should posses  
+- has memories only his father [[Paul Atreides †]] should posses  
 - has similar traits as [[Leto Atreides I]], not only in his looks, but also his demeanor  
 - made a living skin-suit out of the sandtrout - his transformation is beginning
 - destroying all the qanats and freeing the water inside them, hoping to stop the terraforming on Arrakis
