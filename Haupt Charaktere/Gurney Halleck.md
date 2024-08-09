@@ -7,6 +7,7 @@ Herkunft:
 Know-How: 
 - Knows how to fight very well 
 - can play the guitar and knows many songs 
+- can ride worms 
 
 Interessantes:
 - was appointed by [[Leto Atreides I]] to train [[Paul Atreides (†)]]

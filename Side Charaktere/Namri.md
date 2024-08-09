@@ -1,6 +1,6 @@
 Wer (Titel): 
 
-Familie: [[Javid]] (son)
+Familie: [[Javid †]] (son)
 
 Herkunft: [[Arrakis]]
 
