@@ -10,6 +10,6 @@ Know-How:
 - Very good with a sword 
 
 Interessantes: 
-- Is in love with [[Duncan Idaho]]
+- Is in love with [[Duncan Idaho †]]
 - Is disturbed by the visions caused by the increased [[Spice Melange]] doses
 - can commune with Baron Viadimir Harkonnen
