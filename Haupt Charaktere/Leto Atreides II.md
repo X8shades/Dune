@@ -7,7 +7,7 @@ Herkunft:  [[Atreides]] House, born on [[Arrakis]]
 Know-How: 
 - is already on the council
 - very smart and has genetic memory
-- because of the living skin-suit he is now very strong
+- because of the living skin-suit he is now very strong and can communicate with [[Worms]] 
 
 Interessantes:
 - has memories only his father [[Paul Atreides (†)]] should posses  

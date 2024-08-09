@@ -23,3 +23,7 @@ Jessica and Duncan are on Salusa Secundus
 Alia successfully convinced Ghanima to marry farad'n
 - Ghanima wants to take revenge for killing Leto
 - Irulan doesn't like it because they are going to destroy everything Paul had built
+
+# Leto and The Preacher
+Leto and The Preacher (now confirmed as Paul) had a meeting in the middle of the desert.
+Leto now has a second skin made out of [[Sandtrout]] which lend him superhuman abilities 
