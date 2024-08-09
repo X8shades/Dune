@@ -8,8 +8,10 @@ Know-How:
 - is already on the council
 - very smart and has genetic memory
 - because of the living skin-suit he is now very strong and can communicate with [[Worms]] 
+- fire and normal guns seem to not work against him
 
 Interessantes:
 - has memories only his father [[Paul Atreides (†)]] should posses  
 - has similar traits as [[Leto Atreides I]], not only in his looks, but also his demeanor  
 - made a living skin-suit out of the sandtrout - his transformation is beginning
+- destroying all the qanats and freeing the water inside them, hoping to stop the terraforming on Arrakis
