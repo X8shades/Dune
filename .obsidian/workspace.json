@@ -44,21 +44,6 @@
             }
           },
           {
-            "id": "0f03d6ec9d40f0d8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Relationships.canvas",
-                "viewState": {
-                  "x": 1737.723240872647,
-                  "y": -636.9594437619473,
-                  "zoom": -1.4205426052437027
-                }
-              }
-            }
-          },
-          {
             "id": "a5d65d899918a16b",
             "type": "leaf",
             "state": {
@@ -70,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationships.canvas",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationships.canvas"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -205,17 +189,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f03d6ec9d40f0d8",
+  "active": "b41b1f1f9cd8aef5",
   "lastOpenFiles": [
-    "Haupt Charaktere/Paul Atreides †.md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Misc/Copy paste.md",
+    "Haupt Charaktere/Leto Atreides II.md",
+    "Relationships.canvas",
+    "Haupt Charaktere/Paul Atreides †.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "recap.md",
     "Haupt Charaktere/Alia Atreides †.md",
     "Misc/Links.md",
     "README.md",
-    "Relationships.canvas",
     "Haupt Charaktere/Duncan Idaho †.md",
     "Side Charaktere/Javid †.md",
     "Häuser/Harkonnen.md",
@@ -236,7 +220,6 @@
     "Misc/GitHub Zeug.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
-    "Haupt Charaktere/Stilgar Kynes.md",
     "templates",
     "Neuer Ordner",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
