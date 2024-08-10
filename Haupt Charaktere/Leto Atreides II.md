@@ -1,4 +1,4 @@
-Wer (Titel):
+Wer (Titel): Emperor of the Universe
 
 Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides †]] (Father), [[Alia Atreides †]] (Aunt), [[Ghanima Atreides]] (Sister)
 

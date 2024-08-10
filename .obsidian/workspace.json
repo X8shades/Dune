@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61f9355b0832d07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Ghanima Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Haupt Charaktere/Ghanima Atreides.md"
               }
             }
           },
@@ -189,16 +202,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b41b1f1f9cd8aef5",
+  "active": "61f9355b0832d07d",
   "lastOpenFiles": [
-    "Misc/Copy paste.md",
+    "Haupt Charaktere/Farad'n Corrino.md",
     "Haupt Charaktere/Leto Atreides II.md",
+    "Misc/Links.md",
+    "Misc/Copy paste.md",
     "Relationships.canvas",
     "Haupt Charaktere/Paul Atreides †.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "recap.md",
     "Haupt Charaktere/Alia Atreides †.md",
-    "Misc/Links.md",
     "README.md",
     "Haupt Charaktere/Duncan Idaho †.md",
     "Side Charaktere/Javid †.md",
@@ -206,7 +220,6 @@
     "Haupt Charaktere/Gurney Halleck.md",
     "Haupt Charaktere/Sabiha.md",
     "Side Charaktere/Sabiha.md",
-    "Haupt Charaktere/Farad'n Corrino.md",
     "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Muriz.md",
     "Side Charaktere/Tagir Mohandis.md",
