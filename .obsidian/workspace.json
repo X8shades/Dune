@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Farad'n Corrino.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Ghanima Atreides.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Ghanima Atreides.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Ghanima Atreides.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -202,9 +201,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61f9355b0832d07d",
+  "active": "b41b1f1f9cd8aef5",
   "lastOpenFiles": [
     "Haupt Charaktere/Farad'n Corrino.md",
+    "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Misc/Links.md",
     "Misc/Copy paste.md",
@@ -229,7 +229,6 @@
     "Haupt Charaktere/Wensicia Corrino.md",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
-    "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/GitHub Zeug.md",
     "Dinge/CHOAM.md",
     "Dinge/Spice Melange.md",
