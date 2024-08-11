@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b41b1f1f9cd8aef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Ulot †.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c318017667398d99",
             "type": "leaf",
             "state": {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Siona.md",
+                "file": "Side Charaktere/Sonia Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Side Charaktere/Sonia Atreides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Side Charaktere/Sonia Atreides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Side Charaktere/Sonia Atreides.md"
               }
             }
           },
@@ -202,13 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3aef871b70251df",
+  "active": "68cd2601d0b478fa",
   "lastOpenFiles": [
+    "recap.md",
     "Side Charaktere/Ulot †.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/Copy paste.md",
-    "Side Charaktere/Siona.md",
-    "recap.md",
+    "Side Charaktere/Sonia Atreides.md",
     "Misc/Links.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Haupt Charaktere/Leto Atreides II.md",
