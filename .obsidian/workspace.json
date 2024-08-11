@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "68cd2601d0b478fa",
+            "id": "2eeb4abf6b13e770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Siona Atreides.md",
+                "file": "Haupt Charaktere/Duncan Idaho.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Side Charaktere/Moneo Atreides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68cd2601d0b478fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haupt Charaktere/Siona Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Siona Atreides.md",
+                "file": "Haupt Charaktere/Duncan Idaho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Siona Atreides.md",
+                "file": "Haupt Charaktere/Duncan Idaho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Siona Atreides.md"
+                "file": "Haupt Charaktere/Duncan Idaho.md"
               }
             }
           },
@@ -202,23 +214,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68cd2601d0b478fa",
+  "active": "2eeb4abf6b13e770",
   "lastOpenFiles": [
-    "Side Charaktere/Moneo Atreides.md",
+    "Haupt Charaktere/Leto Atreides II.md",
+    "Haupt Charaktere/Duncan Idaho.md",
     "Haupt Charaktere/Siona Atreides.md",
+    "Side Charaktere/Moneo Atreides.md",
     "recap.md",
     "Side Charaktere/Ulot †.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Misc/Copy paste.md",
     "Misc/Links.md",
     "Haupt Charaktere/Farad'n Corrino.md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Relationships.canvas",
     "Haupt Charaktere/Paul Atreides †.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Alia Atreides †.md",
     "README.md",
-    "Haupt Charaktere/Duncan Idaho †.md",
     "Side Charaktere/Javid †.md",
     "Häuser/Harkonnen.md",
     "Haupt Charaktere/Gurney Halleck.md",
