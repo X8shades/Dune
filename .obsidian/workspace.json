@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recap.md",
+                "file": "Side Charaktere/Siona.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recap.md",
+                "file": "Side Charaktere/Siona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recap.md",
+                "file": "Side Charaktere/Siona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recap.md"
+                "file": "Side Charaktere/Siona.md"
               }
             }
           },
@@ -204,9 +204,10 @@
   },
   "active": "68cd2601d0b478fa",
   "lastOpenFiles": [
+    "recap.md",
+    "Side Charaktere/Siona.md",
     "Side Charaktere/Ulot †.md",
     "Misc/Copy paste.md",
-    "recap.md",
     "Misc/Links.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Haupt Charaktere/Ghanima Atreides.md",
@@ -233,7 +234,6 @@
     "Bilder/Wensicia2.webp",
     "Misc/GitHub Zeug.md",
     "Dinge/CHOAM.md",
-    "Dinge/Spice Melange.md",
     "templates",
     "Neuer Ordner",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
