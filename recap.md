@@ -29,7 +29,10 @@ Leto and The Preacher (now confirmed as Paul) had a meeting in the middle of the
 Leto now has a second skin made out of [[Sandtrout]] which lend him superhuman abilities 
 
 # A new beginning
-we follow Ulot who is being chased by D-wolves, the Fremen culture seems to be nothing more than a thing of the distant past, being described as museum Fremen. He dies
 
 It has been 3000 years since [[Leto Atreides II]] has stepped onto the lions chair.
-Rivers and Mountains are named after known characters namely Kynes and Idaho river
+Rivers and Mountains are named after known characters namely Kynes and Idaho river.
+
+we follow Ulot who is being chased by D-wolves, the Fremen culture seems to be nothing more than a thing of the distant past, being described as museum Fremen. He dies. The last surviving person of the troop is Siona.
+
+The troop wants to figure out where Leto hoards his spice
