@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/friend.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/friend.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/friend.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -190,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02d7cc25ec8b0d1",
+  "active": "1ab2423aa8983c09",
   "lastOpenFiles": [
-    "Side Charaktere/Luli.md",
     "Side Charaktere/friend.md",
+    "Side Charaktere/Luli.md",
     "Misc/Links.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Siona Atreides.md",
