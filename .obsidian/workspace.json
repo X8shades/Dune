@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c318017667398d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Copy paste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ab2423aa8983c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Misc/Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbee5f842a317acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Moneo Atreides.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Siona Atreides.md",
+                "file": "Side Charaktere/Luli.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "39aab598e7740b3f",
+            "id": "e02d7cc25ec8b0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Charaktere/Topri.md",
+                "file": "Side Charaktere/friend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Charaktere/Topri.md",
+                "file": "Side Charaktere/friend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Charaktere/Topri.md",
+                "file": "Side Charaktere/friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Charaktere/Topri.md"
+                "file": "Side Charaktere/friend.md"
               }
             }
           },
@@ -214,14 +190,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39aab598e7740b3f",
+  "active": "e02d7cc25ec8b0d1",
   "lastOpenFiles": [
-    "Haupt Charaktere/Siona Atreides.md",
+    "Side Charaktere/Luli.md",
+    "Side Charaktere/friend.md",
+    "Misc/Links.md",
     "Haupt Charaktere/Leto Atreides II.md",
+    "Haupt Charaktere/Siona Atreides.md",
+    "Side Charaktere/Topri.md",
     "Side Charaktere/Moneo Atreides.md",
     "Haupt Charaktere/Duncan Idaho.md",
-    "Misc/Links.md",
-    "Side Charaktere/Topri.md",
     "Side Charaktere/Nayla.md",
     "recap.md",
     "Misc/Copy paste.md",
@@ -241,8 +219,6 @@
     "Side Charaktere/Ghadhean al-Fal.md",
     "Side Charaktere/Muriz.md",
     "Side Charaktere/Tagir Mohandis.md",
-    "Side Charaktere/Namri.md",
-    "Side Charaktere/Palimbasha †.md",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
