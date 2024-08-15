@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Topri.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Topri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Topri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Side Charaktere/Topri.md"
               }
             }
           },
@@ -216,15 +216,17 @@
   },
   "active": "cbee5f842a317acc",
   "lastOpenFiles": [
-    "Misc/Copy paste.md",
-    "Haupt Charaktere/Leto Atreides II.md",
-    "Haupt Charaktere/Duncan Idaho.md",
-    "Side Charaktere/Moneo Atreides.md",
-    "Haupt Charaktere/Siona Atreides.md",
+    "Side Charaktere/Nayla.md",
+    "Side Charaktere/Topri.md",
+    "Misc/Links.md",
     "recap.md",
+    "Haupt Charaktere/Siona Atreides.md",
+    "Haupt Charaktere/Duncan Idaho.md",
+    "Haupt Charaktere/Leto Atreides II.md",
+    "Misc/Copy paste.md",
+    "Side Charaktere/Moneo Atreides.md",
     "Side Charaktere/Ulot †.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Misc/Links.md",
     "Haupt Charaktere/Farad'n Corrino.md",
     "Relationships.canvas",
     "Haupt Charaktere/Paul Atreides †.md",
@@ -242,10 +244,8 @@
     "Side Charaktere/Namri.md",
     "Side Charaktere/Palimbasha †.md",
     "Bilder/Faradn1-CoD.webp",
-    "Haupt Charaktere/Wensicia Corrino.md",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
-    "Misc/GitHub Zeug.md",
     "templates",
     "Neuer Ordner",
     "Bilder/stilgar_dune_1713628285518_1713628285672.avif",
