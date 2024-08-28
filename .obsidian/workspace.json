@@ -25,37 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Leto Atreides II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68cd2601d0b478fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Luli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e02d7cc25ec8b0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/friend.md",
+                "file": "Misc/Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Tertius Eileen Anteac.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Tertius Eileen Anteac.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Tertius Eileen Anteac.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -189,35 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab2423aa8983c09",
+  "active": "dc90069bd78f7af5",
   "lastOpenFiles": [
-    "Haupt Charaktere/Marcus Claire Luyseyal.md",
+    "Misc/Copy paste.md",
+    "Misc/Links.md",
+    "Misc/GitHub Zeug.md",
+    "Misc/README.md",
+    "Haupt Charaktere/Leto Atreides II.md",
+    "Side Charaktere/Luli.md",
+    "Side Charaktere/friend.md",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
+    "Haupt Charaktere/Marcus Claire Luyseyal.md",
     "Side Charaktere/Ulot †.md",
     "Side Charaktere/Sabiha.md",
     "Haupt Charaktere/Nayla.md",
     "Side Charaktere/Topri.md",
-    "Side Charaktere/Luli.md",
-    "Side Charaktere/friend.md",
-    "Misc/Links.md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Haupt Charaktere/Siona Atreides.md",
     "Side Charaktere/Moneo Atreides.md",
     "Haupt Charaktere/Duncan Idaho.md",
-    "recap.md",
-    "Misc/Copy paste.md",
+    "Misc/recap.md",
     "Haupt Charaktere/Ghanima Atreides.md",
     "Haupt Charaktere/Farad'n Corrino.md",
-    "Relationships.canvas",
+    "Misc/Relationships.canvas",
     "Haupt Charaktere/Paul Atreides †.md",
     "Haupt Charaktere/Chani Kynes †.md",
     "Haupt Charaktere/Alia Atreides †.md",
-    "README.md",
     "Side Charaktere/Javid †.md",
     "Häuser/Harkonnen.md",
     "Haupt Charaktere/Gurney Halleck.md",
     "Haupt Charaktere/Sabiha.md",
-    "Side Charaktere/Ghadhean al-Fal.md",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
