@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Duro Nunepi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Duro Nunepi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Haupt Charaktere/Duro Nunepi.md"
               }
             }
           },
@@ -178,18 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c7ef0f3653da51f",
+  "active": "dc90069bd78f7af5",
   "lastOpenFiles": [
+    "Haupt Charaktere/Tertius Eileen Anteac.md",
     "Haupt Charaktere/Duro Nunepi.md",
-    "Haupt Charaktere/Hwi Noree.md",
     "Misc/Links.md",
+    "Haupt Charaktere/Hwi Noree.md",
     "Misc/Copy paste.md",
     "Misc/GitHub Zeug.md",
     "Misc/README.md",
     "Haupt Charaktere/Leto Atreides II.md",
     "Side Charaktere/Luli.md",
     "Side Charaktere/friend.md",
-    "Haupt Charaktere/Tertius Eileen Anteac.md",
     "Haupt Charaktere/Marcus Claire Luyseyal.md",
     "Side Charaktere/Ulot †.md",
     "Side Charaktere/Sabiha.md",
