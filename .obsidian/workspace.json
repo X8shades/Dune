@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Hwi Noree.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Hwi Noree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Haupt Charaktere/Hwi Noree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Haupt Charaktere/Hwi Noree.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "dc90069bd78f7af5",
   "lastOpenFiles": [
-    "Misc/Copy paste.md",
     "Misc/Links.md",
+    "Haupt Charaktere/Hwi Noree.md",
+    "Misc/Copy paste.md",
     "Misc/GitHub Zeug.md",
     "Misc/README.md",
     "Haupt Charaktere/Leto Atreides II.md",
@@ -194,7 +195,6 @@
     "Side Charaktere/Javid †.md",
     "Häuser/Harkonnen.md",
     "Haupt Charaktere/Gurney Halleck.md",
-    "Haupt Charaktere/Sabiha.md",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
