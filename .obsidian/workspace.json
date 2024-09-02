@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9932e792e9bf7874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haupt Charaktere/Marcus Claire Luyseyal.md",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haupt Charaktere/Marcus Claire Luyseyal.md",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haupt Charaktere/Marcus Claire Luyseyal.md"
+                "file": "Misc/Links.md"
               }
             }
           },
@@ -166,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c7ef0f3653da51f",
+  "active": "9932e792e9bf7874",
   "lastOpenFiles": [
+    "Haupt Charaktere/Marcus Claire Luyseyal.md",
     "Haupt Charaktere/Duro Nunepi.md",
     "Misc/Links.md",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
@@ -178,7 +191,6 @@
     "Haupt Charaktere/Leto Atreides II.md",
     "Side Charaktere/Luli.md",
     "Side Charaktere/friend.md",
-    "Haupt Charaktere/Marcus Claire Luyseyal.md",
     "Side Charaktere/Ulot †.md",
     "Side Charaktere/Sabiha.md",
     "Haupt Charaktere/Nayla.md",

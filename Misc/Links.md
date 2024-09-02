@@ -1,3 +1,3 @@
-https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org_202204/page/n1927/mode/1up?view=theater
+https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org_202204/page/n1951/mode/1up?view=theater
 
 https://dune.fandom.com/wiki/Special:Search?query=&scope=internal&contentType=&ns%5B0%5D=0&ns%5B1%5D=2900
