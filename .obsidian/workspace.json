@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Marcus Claire Luyseyal.md",
+                "file": "Side Charaktere/Norma Cenva.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Dinge/Guild Ship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4320ce868490ca15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side Charaktere/Aurelius Venport.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Aurelius Venport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Links.md",
+                "file": "Side Charaktere/Aurelius Venport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Side Charaktere/Aurelius Venport.md"
               }
             }
           },
@@ -178,11 +190,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9932e792e9bf7874",
+  "active": "4320ce868490ca15",
   "lastOpenFiles": [
+    "Dinge/Guild Ship.md",
+    "Side Charaktere/Aurelius Venport.md",
+    "Side Charaktere/Norma Cenva.md",
     "Haupt Charaktere/Marcus Claire Luyseyal.md",
-    "Haupt Charaktere/Duro Nunepi.md",
+    "Haupt Charaktere/Edric †.md",
+    "Side Charaktere/Tyekanik.md",
+    "Side Charaktere/Otheym.md",
+    "Side Charaktere/Moneo Atreides.md",
     "Misc/Links.md",
+    "Haupt Charaktere/Duro Nunepi.md",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
     "Haupt Charaktere/Hwi Noree.md",
     "Misc/Copy paste.md",
@@ -196,17 +215,10 @@
     "Haupt Charaktere/Nayla.md",
     "Side Charaktere/Topri.md",
     "Haupt Charaktere/Siona Atreides.md",
-    "Side Charaktere/Moneo Atreides.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Misc/recap.md",
     "Haupt Charaktere/Ghanima Atreides.md",
-    "Haupt Charaktere/Farad'n Corrino.md",
     "Misc/Relationships.canvas",
-    "Haupt Charaktere/Paul Atreides †.md",
-    "Haupt Charaktere/Chani Kynes †.md",
-    "Haupt Charaktere/Alia Atreides †.md",
-    "Side Charaktere/Javid †.md",
-    "Häuser/Harkonnen.md",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
