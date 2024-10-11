@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a596f698f374aca1",
+        "id": "b39193e1c5e4b0f6",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab2423aa8983c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Tertius Eileen Anteac.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c7ef0f3653da51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Charaktere/Norma Cenva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9932e792e9bf7874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinge/Guild Ship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4320ce868490ca15",
+            "id": "47f0b78f45a9688c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,20 +153,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4320ce868490ca15",
+  "active": "47f0b78f45a9688c",
   "lastOpenFiles": [
-    "Side Charaktere/Aurelius Venport.md",
-    "Dinge/Guild Ship.md",
+    "Haupt Charaktere/Tertius Eileen Anteac.md",
     "Side Charaktere/Norma Cenva.md",
+    "Dinge/Guild Ship.md",
+    "Haupt Charaktere/Siona Atreides.md",
+    "Haupt Charaktere/Hwi Noree.md",
+    "Misc/Links.md",
+    "Side Charaktere/Aurelius Venport.md",
     "Haupt Charaktere/Marcus Claire Luyseyal.md",
     "Haupt Charaktere/Edric †.md",
     "Side Charaktere/Tyekanik.md",
     "Side Charaktere/Otheym.md",
     "Side Charaktere/Moneo Atreides.md",
-    "Misc/Links.md",
     "Haupt Charaktere/Duro Nunepi.md",
-    "Haupt Charaktere/Tertius Eileen Anteac.md",
-    "Haupt Charaktere/Hwi Noree.md",
     "Misc/Copy paste.md",
     "Misc/GitHub Zeug.md",
     "Misc/README.md",
@@ -214,7 +178,6 @@
     "Side Charaktere/Sabiha.md",
     "Haupt Charaktere/Nayla.md",
     "Side Charaktere/Topri.md",
-    "Haupt Charaktere/Siona Atreides.md",
     "Haupt Charaktere/Duncan Idaho.md",
     "Misc/recap.md",
     "Haupt Charaktere/Ghanima Atreides.md",
