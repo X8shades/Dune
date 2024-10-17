@@ -33,7 +33,8 @@
               "title": "Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+                "file": "Misc/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
+              "title": "Backlinks for Links"
             }
           },
           {
@@ -124,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+                "file": "Misc/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
+              "title": "Outgoing links from Links"
             }
           },
           {
@@ -151,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf"
+                "file": "Misc/Links.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
+              "title": "Outline of Links"
             }
           },
           {
@@ -183,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47f0b78f45a9688c",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Links.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
