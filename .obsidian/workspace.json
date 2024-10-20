@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47f0b78f45a9688c",
+            "id": "840f3880d31f4b22",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -20,15 +20,17 @@
             }
           },
           {
-            "id": "840f3880d31f4b22",
+            "id": "f3344cec89a77182",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf"
+                "file": "Misc/Links.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
+              "icon": "lucide-file",
+              "title": "Links"
             }
           }
         ],
@@ -182,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "f3344cec89a77182",
   "lastOpenFiles": [
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
