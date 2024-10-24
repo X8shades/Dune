@@ -23,14 +23,12 @@
             "id": "f3344cec89a77182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Misc/Links.md",
-                "mode": "source",
-                "source": false
+                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Links"
+              "icon": "lucide-file-text",
+              "title": "1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
             }
           }
         ],
@@ -186,10 +184,10 @@
   },
   "active": "f3344cec89a77182",
   "lastOpenFiles": [
-    "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
-    "Misc/Links.md",
-    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Links.md",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
     "Side Charaktere/Norma Cenva.md",
     "Dinge/Guild Ship.md",
