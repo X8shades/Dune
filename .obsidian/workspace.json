@@ -23,16 +23,17 @@
             "id": "f3344cec89a77182",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf"
+                "file": "Side Charaktere/Malky.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
+              "icon": "lucide-file",
+              "title": "Malky"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3344cec89a77182",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
-    "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Side Charaktere/Malky.md",
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
@@ -211,7 +213,6 @@
     "Haupt Charaktere/Nayla.md",
     "Side Charaktere/Topri.md",
     "Haupt Charaktere/Duncan Idaho.md",
-    "Misc/recap.md",
     "Misc/Relationships.canvas",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",

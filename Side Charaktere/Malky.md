@@ -1,0 +1,1 @@
+Malky was the Ixian Ambassador to Arrakis during the later years of the reign of Leto Atreides II, the God Emperor. 
