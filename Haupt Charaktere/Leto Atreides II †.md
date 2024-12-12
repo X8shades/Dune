@@ -16,4 +16,4 @@ Interessantes:
 - made a living skin-suit out of the sandtrout - his transformation is beginning
 - destroying all the qanats and freeing the water inside them, hoping to stop the terraforming on Arrakis
 - [[Moneo Atreides]] (a chief aid of his) describes him thus: But they are two separate beings—Leto the Emperor and The Worm Who Is God.
-- died to 
+- died to [[Duncan Idaho]] via a Lasgun

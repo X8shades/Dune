@@ -1,4 +1,4 @@
-Wer (Titel):
+Wer (Titel): is [[friend]]
 
 Familie:
 
