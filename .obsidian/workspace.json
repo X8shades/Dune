@@ -11,14 +11,12 @@
             "id": "840f3880d31f4b22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Haupt Charaktere/Miles Teg.md",
-                "mode": "source",
-                "source": false
+                "file": "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Miles Teg"
+              "icon": "lucide-file-text",
+              "title": "2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
             }
           },
           {
@@ -91,7 +89,8 @@
               "title": "Schwangyu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Miles Teg.md",
