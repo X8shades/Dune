@@ -89,8 +89,7 @@
               "title": "Schwangyu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,12 +239,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b39a4a8dded025ed",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
+    "Misc/Links.md",
     "Haupt Charaktere/Taraza.md",
     "Misc/recap.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
-    "Misc/Links.md",
     "Haupt Charaktere/Lucilla.md",
     "Haupt Charaktere/Schwangyu.md",
     "Haupt Charaktere/Leto Atreides II †.md",
