@@ -6,4 +6,4 @@ Herkunft:
 
 Know-How:
 
-Interessantes:
+Interessantes: knows [[Schwangyu]] and [[Taraza]]
