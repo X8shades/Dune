@@ -11,5 +11,5 @@ Know-How:
 
 Interessantes:
 - tried to explain Muadib with maths and got reprimanded by the priesthood
-- was supposed to kill the twins [[Ghanima Atreides]] and [[Leto Atreides II]] 
+- was supposed to kill the twins [[Ghanima Atreides]] and [[Leto Atreides II †]] 
 - killed by [[Ghanima Atreides]] via a poisoned needle

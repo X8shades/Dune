@@ -1,6 +1,6 @@
 Wer (Titel):
 
-Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides †]] (Father), [[Leto Atreides II]] (Brother), [[Alia Atreides †]] (Aunt), [[Farad'n Corrino]] (husband)
+Familie: [[Chani Kynes †]] (Mother), [[Paul Atreides †]] (Father), [[Leto Atreides II †]] (Brother), [[Alia Atreides †]] (Aunt), [[Farad'n Corrino]] (husband)
 
 Herkunft:  [[Atreides]] Haus, born on [[Caladan]] 
 

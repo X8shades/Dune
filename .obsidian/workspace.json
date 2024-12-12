@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Taraza.md",
+                "file": "Side Charaktere/friend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taraza"
-            }
-          },
-          {
-            "id": "c1588f108c0e35d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Schwangyu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schwangyu"
-            }
-          },
-          {
-            "id": "d2f8182d6bf6895f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haupt Charaktere/Lucilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lucilla"
+              "title": "friend"
             }
           },
           {
@@ -63,8 +35,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +185,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2f8182d6bf6895f",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
-    "Haupt Charaktere/Schwangyu.md",
-    "Haupt Charaktere/Lucilla.md",
-    "Haupt Charaktere/Taraza.md",
+    "Haupt Charaktere/Leto Atreides II †.md",
+    "Haupt Charaktere/Paul Atreides †.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Haupt Charaktere/Untitled.md",
+    "Haupt Charaktere/Taraza.md",
+    "Haupt Charaktere/Lucilla.md",
+    "Haupt Charaktere/Schwangyu.md",
     "Planeten/Gammu.md",
     "Misc/Links.md",
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
@@ -241,10 +215,8 @@
     "Misc/Copy paste.md",
     "Misc/GitHub Zeug.md",
     "Misc/README.md",
-    "Haupt Charaktere/Leto Atreides II.md",
     "Side Charaktere/Luli.md",
     "Side Charaktere/friend.md",
-    "Side Charaktere/Ulot †.md",
     "Misc/Relationships.canvas",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",

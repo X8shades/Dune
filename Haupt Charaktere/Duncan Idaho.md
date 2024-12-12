@@ -15,5 +15,5 @@ Interessantes:
 - killed [[Bijaz]] 
 - was first killed by Sardaukar disguised as [[Harkonnen]] on [[Arrakis]] 
 - second time he was killed by [[Stilgar Kynes]] because he killed [[Javid †]]
-- is able to revive a lot of times; was killed by [[Leto Atreides II]] nine times at least
+- is able to revive a lot of times; was killed by [[Leto Atreides II †]] nine times at least
 - there are many Duncans now 

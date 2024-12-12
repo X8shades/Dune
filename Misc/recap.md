@@ -17,7 +17,7 @@ killed both [[Laza tigers]]
 Alia is currently trying to persuade Ghanima to marry Farradn
 Jessica and Duncan are on Salusa Secundus
 - Jessica is training Farradn in the Bene Gesserit way
-[[Leto Atreides II]] is being trained by [[Namri]] and forced by [[Gurney Halleck]] to drink the blue Spice drink
+[[Leto Atreides II †]] is being trained by [[Namri]] and forced by [[Gurney Halleck]] to drink the blue Spice drink
 
 # Ghanima and Alia
 Alia successfully convinced Ghanima to marry farad'n
@@ -30,7 +30,7 @@ Leto now has a second skin made out of [[Sandtrout]] which lend him superhuman a
 
 # A new beginning
 
-It has been 3000 years since [[Leto Atreides II]] has stepped onto the lions chair.
+It has been 3000 years since [[Leto Atreides II †]] has stepped onto the lions chair.
 Rivers and Mountains are named after known characters namely Kynes and Idaho river.
 
 we follow Ulot who is being chased by D-wolves, the Fremen culture seems to be nothing more than a thing of the distant past, being described as museum Fremen. He dies. The last surviving person of the troop is Siona.

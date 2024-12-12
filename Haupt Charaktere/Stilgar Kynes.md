@@ -10,4 +10,4 @@ Know-How: relatively good in politics and a fighter
 
 Interessantes: 
 - sees [[Paul Atreides †]] as a god 
-- is the caretaker of [[Ghanima Atreides]] and [[Leto Atreides II]] after [[Paul Atreides †]]'s death
+- is the caretaker of [[Ghanima Atreides]] and [[Leto Atreides II †]] after [[Paul Atreides †]]'s death
