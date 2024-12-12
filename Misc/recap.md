@@ -1,5 +1,6 @@
 # After the death of [[Leto Atreides II †]]
-Assassins are trying to kill the Ghola ([[Duncan Idaho]])
+Assassins are trying to kill the Ghola ([[Duncan Idaho]]) of the Ghola project, pioneered by [[Lucilla]], [[Schwangyu]] and [[Taraza]] of the [[Bene Gesserit]].
+There is also talk of the scattering
 
 # Alia and Duncan
 [[Duncan Idaho]] is tasked by [[Alia Atreides †]], with the kidnapping of [[Jessica Atreides]] 
