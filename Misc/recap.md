@@ -1,3 +1,6 @@
+# After the death of [[Leto Atreides II †]]
+Assassins are trying to kill the Ghola ([[Duncan Idaho]])
+
 # Alia and Duncan
 [[Duncan Idaho]] is tasked by [[Alia Atreides †]], with the kidnapping of [[Jessica Atreides]] 
 

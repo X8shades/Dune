@@ -6,4 +6,6 @@ Herkunft:
 
 Know-How:
 
-Interessantes: knows [[Taraza]] and [[Lucilla]]
+Interessantes: 
+- knows [[Taraza]] and [[Lucilla]]
+- rather old
