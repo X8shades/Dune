@@ -89,8 +89,7 @@
               "title": "Schwangyu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,13 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b39a4a8dded025ed",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Relationships.canvas",
+    "Untitled.canvas",
+    "Misc/Links.md",
     "Haupt Charaktere/Miles Teg.md",
     "Side Charaktere/Patrin.md",
     "Haupt Charaktere/Sheeana Brugh.md",
-    "Misc/Links.md",
     "Haupt Charaktere/Taraza.md",
     "Misc/recap.md",
     "Haupt Charaktere/Lucilla.md",
@@ -259,7 +260,6 @@
     "Planeten/Gammu.md",
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Siona Atreides.md",
-    "Untitled.canvas",
     "Side Charaktere/Malky.md",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
@@ -271,7 +271,6 @@
     "Haupt Charaktere/Edric †.md",
     "Side Charaktere/Tyekanik.md",
     "Side Charaktere/Otheym.md",
-    "Misc/Relationships.canvas",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
