@@ -89,7 +89,8 @@
               "title": "Schwangyu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,18 +240,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Haupt Charaktere/Lucilla.md",
+    "Misc/Links.md",
     "Misc/Relationships.canvas",
     "Untitled.canvas",
-    "Misc/Links.md",
     "Haupt Charaktere/Miles Teg.md",
     "Side Charaktere/Patrin.md",
     "Haupt Charaktere/Sheeana Brugh.md",
     "Haupt Charaktere/Taraza.md",
     "Misc/recap.md",
-    "Haupt Charaktere/Lucilla.md",
     "Haupt Charaktere/Schwangyu.md",
     "Haupt Charaktere/Leto Atreides II †.md",
     "Haupt Charaktere/Paul Atreides †.md",

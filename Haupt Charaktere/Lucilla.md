@@ -1,6 +1,8 @@
 Wer (Titel): Reverend Mother 
 
 Familie:
+- descendant of [[Siona Atreides]]
+- 
 
 Herkunft:
 
