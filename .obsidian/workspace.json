@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "840f3880d31f4b22",
+            "id": "89862f448d1e672f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -197,16 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "89862f448d1e672f",
   "lastOpenFiles": [
-    "Dinge/Ghola Project.md",
     "Misc/Links.md",
-    "Haupt Charaktere/Alma Mavis Taraza.md",
+    "Misc/README.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/recap.md",
+    "Misc/Relationships.canvas",
+    "Misc/GitHub Zeug.md",
+    "Dinge/Ghola Project.md",
+    "Haupt Charaktere/Alma Mavis Taraza.md",
     "Side Charaktere/Geasa.md",
     "Haupt Charaktere/Lucilla.md",
-    "Misc/Relationships.canvas",
     "Untitled.canvas",
     "Haupt Charaktere/Miles Teg.md",
     "Side Charaktere/Patrin.md",
@@ -227,8 +229,6 @@
     "Dinge/Guild Ship.md",
     "Haupt Charaktere/Hwi Noree.md",
     "Side Charaktere/Aurelius Venport.md",
-    "Haupt Charaktere/Marcus Claire Luyseyal.md",
-    "Haupt Charaktere/Edric †.md",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
