@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haupt Charaktere/Taraza.md",
+                "file": "Haupt Charaktere/Alma Mavis Taraza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taraza"
+              "title": "Alma Mavis Taraza"
             }
           },
           {
@@ -212,10 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5be3c10bdbc91ddc",
+  "active": "bcb80f79c76fa3ad",
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
-    "Haupt Charaktere/Taraza.md",
+    "Haupt Charaktere/Alma Mavis Taraza.md",
     "Misc/recap.md",
     "Misc/Links.md",
     "Side Charaktere/Geasa.md",
