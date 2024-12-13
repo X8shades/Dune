@@ -1,5 +1,5 @@
-# After the death of [[Leto Atreides II †]]
-Assassins are trying to kill the Ghola ([[Duncan Idaho]]) of the Ghola project, pioneered by [[Lucilla]], [[Schwangyu]] and [[Taraza]] of the [[Bene Gesserit]].
+# Fifteen hundred years since the Tyrant’s death [[Leto Atreides II †]]
+Assassins are trying to kill the Ghola ([[Duncan Idaho]]) of the Ghola project, pioneered by [[Lucilla]], [[Schwangyu]] and [[Alma Mavis Taraza]] of the [[Bene Gesserit]].
 There is also talk of the scattering
 
 # Alia and Duncan

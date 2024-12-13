@@ -7,5 +7,5 @@ Herkunft:
 Know-How:
 
 Interessantes: 
-- knows [[Taraza]] and [[Lucilla]]
+- knows [[Alma Mavis Taraza]] and [[Lucilla]]
 - rather old
