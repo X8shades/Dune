@@ -47,8 +47,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a75264a845fc3a5",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
+    "Planeten/Gammu.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
     "Haupt Charaktere/Darwi Odrade.md",
@@ -209,7 +209,6 @@
     "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Side Charaktere/Patrin.md",
     "Side Charaktere/Geasa.md",
-    "Planeten/Gammu.md",
     "Haupt Charaktere/Sheeana Brugh.md",
     "Haupt Charaktere/Schwangyu.md",
     "Haupt Charaktere/Miles Teg.md",
