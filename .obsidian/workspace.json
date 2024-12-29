@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "7a75264a845fc3a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planeten/Gammu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gammu"
-            }
-          },
-          {
             "id": "b39a4a8dded025ed",
             "type": "leaf",
             "state": {
@@ -47,7 +33,8 @@
               "title": "Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
-    "Planeten/Gammu.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Planeten/Gammu.md",
     "Misc/Links.md",
     "Haupt Charaktere/Darwi Odrade.md",
     "Haupt Charaktere/Alma Mavis Taraza.md",
