@@ -33,7 +33,8 @@
               "title": "Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89862f448d1e672f",
+  "active": "ec60a4a5e5552ef0",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Links.md",
     "Haupt Charaktere/Darwi Odrade.md",
     "Misc/README.md",
     "Misc/recap.md",
