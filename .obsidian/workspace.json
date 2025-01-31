@@ -33,8 +33,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec60a4a5e5552ef0",
+  "active": "89862f448d1e672f",
   "lastOpenFiles": [
-    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
+    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Darwi Odrade.md",
     "Misc/README.md",
     "Misc/recap.md",
@@ -209,7 +210,6 @@
     "Side Charaktere/friend.md",
     "Haupt Charaktere/Nayla.md",
     "Planeten/Gammu.md",
-    "Misc/1_God_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Siona Atreides.md",
     "Side Charaktere/Malky.md",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
