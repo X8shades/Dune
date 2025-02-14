@@ -53,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ca1998927c7dfda",
@@ -187,9 +187,11 @@
   },
   "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
+    "Dinge/CHOAM.md",
+    "Misc/Links.md",
+    "Misc/Relationships.canvas",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Leto Atreides II †.md",
-    "Misc/Links.md",
     "Planeten/Gammu.md",
     "Haupt Charaktere/Darwi Odrade.md",
     "Haupt Charaktere/Alma Mavis Taraza.md",
@@ -216,7 +218,6 @@
     "Side Charaktere/Otheym.md",
     "Side Charaktere/Moneo Atreides.md",
     "Haupt Charaktere/Duro Nunepi.md",
-    "Misc/Relationships.canvas",
     "Bilder/Faradn1-CoD.webp",
     "Bilder/Palimbasha.webp",
     "Bilder/Wensicia2.webp",
