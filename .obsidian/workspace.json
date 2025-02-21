@@ -33,8 +33,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b39a4a8dded025ed",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
-    "Dinge/CHOAM.md",
     "Misc/Links.md",
+    "Dinge/CHOAM.md",
     "Misc/Relationships.canvas",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Leto Atreides II †.md",
