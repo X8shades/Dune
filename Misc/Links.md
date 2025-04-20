@@ -1,6 +1,6 @@
 obsidian://openvault=Dune&file=Misc%2FGod_Emperor_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf
 
-heretics of dune 185
+heretics of dune 198
 https://www.freepdfconvert.com/
 
 
