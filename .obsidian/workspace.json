@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ca1998927c7dfda",
@@ -154,24 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Misc/Links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Links"
             }
-          },
-          {
-            "id": "bcb80f79c76fa3ad",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b39a4a8dded025ed",
+  "active": "ea120cfd37eb2341",
   "lastOpenFiles": [
-    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
+    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Dinge/CHOAM.md",
     "Misc/Relationships.canvas",
     "Haupt Charaktere/Leto Atreides II †.md",
