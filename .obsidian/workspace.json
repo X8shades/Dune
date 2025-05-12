@@ -163,9 +163,19 @@
               "icon": "lucide-list",
               "title": "Outline of Links"
             }
+          },
+          {
+            "id": "a7cdc9160d90b4de",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea120cfd37eb2341",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
