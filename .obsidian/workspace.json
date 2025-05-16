@@ -32,16 +32,6 @@
               "icon": "lucide-file",
               "title": "Links"
             }
-          },
-          {
-            "id": "484baba7b549c74a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -202,8 +192,8 @@
   },
   "active": "840f3880d31f4b22",
   "lastOpenFiles": [
-    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
+    "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Untitled.canvas",
     "Dinge/CHOAM.md",
     "Misc/Relationships.canvas",
