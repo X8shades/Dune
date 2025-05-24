@@ -141,7 +141,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -153,14 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Links.md"
+                "file": "Misc/Links.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Links"
             }
           },
           {
-            "id": "bcb80f79c76fa3ad",
+            "id": "a7cdc9160d90b4de",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,6 +194,7 @@
   "lastOpenFiles": [
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Misc/Links.md",
+    "Untitled.canvas",
     "Dinge/CHOAM.md",
     "Misc/Relationships.canvas",
     "Haupt Charaktere/Leto Atreides II †.md",
@@ -204,7 +210,6 @@
     "Haupt Charaktere/Miles Teg.md",
     "Dinge/Ghola Project.md",
     "Haupt Charaktere/Siona Atreides.md",
-    "Untitled.canvas",
     "Side Charaktere/Malky.md",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Haupt Charaktere/Tertius Eileen Anteac.md",
