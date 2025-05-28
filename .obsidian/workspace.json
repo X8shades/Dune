@@ -33,7 +33,8 @@
               "title": "Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7cdc9160d90b4de",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Links.md",
     "Untitled.canvas",
     "Dinge/CHOAM.md",
     "Misc/Relationships.canvas",
