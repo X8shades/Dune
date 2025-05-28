@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ca1998927c7dfda",
@@ -189,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "a7cdc9160d90b4de",
   "lastOpenFiles": [
     "Misc/Links.md",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
