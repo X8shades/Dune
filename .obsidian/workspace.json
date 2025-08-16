@@ -33,7 +33,8 @@
               "title": "Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840f3880d31f4b22",
+  "active": "b39a4a8dded025ed",
   "lastOpenFiles": [
-    "Misc/Links.md",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
+    "Misc/Links.md",
     "Misc/Relationships.canvas",
     "Misc/2_Heretics_of_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
     "Untitled.canvas",
