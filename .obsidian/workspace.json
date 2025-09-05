@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e1a5b5e7655fa219",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
             "id": "b39a4a8dded025ed",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1a5b5e7655fa219",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
     "Misc/Links.md",
     "Misc/3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org.pdf",
