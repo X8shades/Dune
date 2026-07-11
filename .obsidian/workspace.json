@@ -18,31 +18,8 @@
               "icon": "lucide-file-text",
               "title": "3_Chapterhouse_Dune_by_Frank_Herbert_Herbert_Frank__z-lib_org"
             }
-          },
-          {
-            "id": "9f1d9dd42df25c65",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.12.4"
-            }
-          },
-          {
-            "id": "b39a4a8dded025ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +178,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "9f1d9dd42df25c65",
+  "active": "840f3880d31f4b22",
   "lastOpenFiles": [
     "Misc/Links.md",
     "test.md",
